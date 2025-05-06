@@ -39,7 +39,7 @@ print("Validation Accuracy:", accuracy_score(y_val, val_preds))
 # --- 7. Load and process test data ---
 test_df = pd.read_csv("test.csv")
 
-# Fill missing values
+# Fill missing values (avoid inplace chained assignment)
 fill_defaults = {
     'avg_time_per_page': test_df['avg_time_per_page'].mean(),
     'medium': test_df['medium'].mode()[0],
@@ -48,7 +48,7 @@ fill_defaults = {
 }
 for col, val in fill_defaults.items():
     if col in test_df.columns:
-        test_df[col].fillna(val, inplace=True)
+        test_df[col] = test_df[col].fillna(val)
 
 # Encode test data using training encoders
 for col in test_df.select_dtypes(include=["object"]).columns:
@@ -56,11 +56,12 @@ for col in test_df.select_dtypes(include=["object"]).columns:
         le = label_encoders[col]
         test_df[col] = test_df[col].apply(lambda x: le.transform([x])[0] if x in le.classes_ else -1)
 
-# Drop unnecessary columns and predict
-X_test = test_df.drop(columns=["id", "unique_session_id"], errors="ignore")
+# Ensure test features match training features
+X_test = test_df[X_train.columns]
+
+# --- 8. Predict and export ---
 test_preds = model.predict(X_test)
 
-# --- 8. Output results ---
 output = test_df[["id"]].copy()
 output["will_buy_on_return_visit"] = test_preds
 output.to_csv("fix_predicted_data_random_forest.csv", index=False)
