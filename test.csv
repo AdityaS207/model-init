@@ -1,0 +1,1001 @@
+id,unique_session_id,bounces,time_on_site,pageviews,hits,session_quality_dim,latest_ecommerce_progress,avg_time_per_page,source,medium,channelGrouping,deviceCategory,operatingSystem,browser,country,city
+44,70254118674433699171499787955,0,10,3,3,2,0,3.3333333333,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,new york
+51,13942618714780242461487108189,0,72,9,11,0,4,8.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+60,09076406666416484141488339781,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,chrome,vietnam,ho chi minh city
+70,15714003792776280801481560845,1,0,1,1,0,0,,analytics.google.com,referral,referral,tablet,ios,safari,vietnam,hanoi
+77,92369863251057752251482101596,0,148,9,11,0,5,16.3333333333,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+78,38990764166459135541481541970,0,3,2,2,0,0,1.5,dfa,cpm,display,desktop,macintosh,chrome,united states,san francisco
+85,62182467703341719271479771335,0,222,12,12,0,0,18.4166666667,(direct),,direct,desktop,linux,chrome,switzerland,zurich
+87,41528682248863207061495060215,0,245,13,15,0,6,19.0769230769,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+93,2033896770084886551480644705,0,12,3,3,0,0,4.0,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+96,6722243491647293471494312743,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,thailand,
+98,8695340215778584751492292907,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,nigeria,yenagoa
+104,87176272374198146261481351725,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,internet explorer,taiwan,
+105,08101080942552262551499203535,0,11,2,2,1,0,5.5,dfa,cpm,display,desktop,macintosh,chrome,britain,london
+107,860443698150941301480566128,0,764,46,57,0,5,17.1818181818,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+109,987661371805310151498411579,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+121,77729875884679748301482253921,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,india,mumbai
+124,58981754246388002091476980887,0,1106,9,9,0,0,121.6666666667,sites.google.com,referral,referral,desktop,windows,chrome,united states,san jose
+134,70338282612254295161482219334,0,7,2,2,0,0,3.5,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+136,92760343859379932921475544747,0,1323,18,22,0,6,72.8333333333,sites.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+138,58924642470743698661494906234,0,106,6,6,0,0,18.6666666667,google,organic,organic search,desktop,macintosh,chrome,netherlands,
+142,34064974609861350131484533065,0,471,20,20,0,6,23.75,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+143,38986560494920288551472601004,0,25,3,3,0,0,8.3333333333,youtube.com,referral,social,desktop,windows,internet explorer,thailand,bangkok
+144,18375216714943154551486013464,1,0,1,1,0,0,,google.com,referral,referral,desktop,windows,internet explorer,ukraine,
+148,72651430231108869171495649377,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,firefox,netherlands,amsterdam
+151,1048813121235098821481156741,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,thailand,bangkok
+154,20464619698372791671478348536,0,128,6,8,0,2,20.0,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+172,6901284475401064181483792337,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,thailand,
+182,54780258208993737081486639825,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,united states,new york
+186,09756927461272484731480805803,0,343,15,17,0,6,22.9333333333,mail.google.com,referral,referral,desktop,macintosh,chrome,united states,austin
+193,17817900508858905731481515207,0,71,8,10,0,4,8.625,mail.google.com,referral,referral,desktop,macintosh,chrome,singapore,singapore
+195,564317795881630651480969127,0,331,10,12,0,5,33.1,google,organic,organic search,desktop,macintosh,safari,india,hyderabad
+198,78296002894600104821487806306,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,linux,chrome,switzerland,zurich
+203,34042917566519497471481480452,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,spain,barcelona
+216,68642107296628748781481260065,0,622,24,29,0,6,26.8333333333,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,sunnyvale
+219,28644086882138823381478090395,0,117,5,5,0,0,23.4,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+226,31633364809672136001494555988,0,2208,6,6,0,0,361.6666666667,(direct),,direct,mobile,android,chrome,saudi arabia,
+234,22444932377847537731487537472,0,453,9,11,0,3,50.3333333333,sites.google.com,referral,referral,desktop,macintosh,chrome,indonesia,jakarta
+235,09447004857634951981486684564,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+236,52671463894802119831476566449,0,134,4,6,0,3,34.0,dfa,cpm,display,desktop,macintosh,edge,united states,san francisco
+254,13062518544979884311482693313,0,9,2,2,0,0,4.5,(direct),,direct,mobile,android,firefox,germany,hamburg
+257,65789059544221782601499744426,0,14,4,4,2,0,3.5,dfa,cpm,display,desktop,windows,chrome,united states,mountain view
+263,07395415429607929211471721239,1,0,1,1,0,0,,(direct),,direct,tablet,android,firefox,switzerland,zurich
+267,48920912205443423701481910601,0,39,2,2,0,0,19.5,mail.google.com,referral,referral,mobile,android,chrome,united states,austin
+281,62958815852534004651483553771,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+285,52666962410895609561495065247,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,yabrowser,turkey,antalya
+289,50357604820383690501492747461,0,551,2,2,0,0,275.0,youtube.com,referral,social,mobile,android,chrome,vietnam,hanoi
+298,57897570852855410131486923745,0,39,3,3,0,0,13.0,(direct),,direct,mobile,android,chrome,united states,san francisco
+302,49290016187183085351475419485,1,0,1,1,0,0,,lunametrics.com,referral,referral,tablet,ios,safari,united states,los angeles
+308,19969772971748556101489292461,0,243,7,11,0,2,34.0,youtube.com,referral,social,tablet,ios,safari (in-app),australia,melbourne
+317,49537940143894311411475137498,0,11,5,5,0,0,2.2,google,organic,organic search,mobile,android,chrome,india,new delhi
+318,1649692318504639441481789230,0,1561,20,25,0,6,78.05,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,austin
+321,424820024995802181489982145,0,457,10,13,0,6,45.7,mail.google.com,referral,referral,desktop,macintosh,safari,united arab emirates,umm al quniya
+326,47696788740176731151488353284,0,93,7,7,0,0,12.8571428571,mall.googleplex.com,referral,referral,desktop,windows,chrome,uruguay,montevideo
+331,45645506975310676541487868969,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,windows,chrome,mexico,san jose
+333,17010076667199608911496974358,1,0,1,1,0,0,,google,cpc,paid search,desktop,macintosh,chrome,china,mountain view
+339,11061702369586580731479432462,0,186,13,16,0,5,14.2307692308,(direct),,direct,desktop,macintosh,chrome,united states,redwood city
+340,70870129643494669131497087929,0,172,7,9,0,5,25.2857142857,sites.google.com,referral,referral,desktop,windows,chrome,united states,san jose
+343,09234755915501455121500511318,0,145,13,16,39,5,10.3846153846,(direct),,direct,desktop,macintosh,chrome,ireland,dublin
+351,36748108372963405511484787158,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,germany,berlin
+353,43198319873752689261485932213,0,726,5,5,0,0,144.2,google,organic,organic search,desktop,windows,chrome,india,kharagpur
+358,85950739062241738831492359300,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,firefox,vietnam,da nang
+363,48781508148395766761478337154,0,65,11,42,0,2,5.8181818182,(direct),,direct,tablet,android,chrome,argentina, buenos aires
+367,8597604422087591051475132576,0,705,35,41,0,2,19.4857142857,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+369,48788366128737266801472692556,0,67,6,6,0,0,11.5,(direct),,direct,mobile,android,firefox,taiwan,
+375,26562793675541333051492388216,0,328,15,18,0,6,21.5666666667,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+381,05048693742403282291484820740,0,236,5,5,0,0,47.2,mail.google.com,referral,referral,desktop,windows,chrome,indonesia,jakarta
+384,39781024937970481311473161013,0,406,16,18,0,6,26.3125,(direct),,direct,mobile,android,chrome,united states,san francisco
+390,27473659589583828101486070472,0,83,5,5,0,0,16.6,google,organic,organic search,mobile,ios,safari,united kingdom,london
+400,47831171518669591471480960569,0,1244,26,28,0,6,48.3333333333,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,venezuela,maracaibo
+403,82147586533213745181487953196,1,0,1,1,0,0,,(direct),,direct,desktop,windows,edge,taiwan,
+406,56877643801733245761475115185,0,64,5,5,0,0,12.8,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+407,48003243311955444681481757643,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,philippines,quezon city
+409,60325860601265858111487065380,0,178,2,2,0,0,89.0,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,hong kong,movement and health study site
+410,65394264205147034471495213247,1,0,1,1,0,0,,google,organic,organic search,mobile,android,chrome,india,
+412,64192869727470946481479692294,0,58,5,5,0,0,11.6,(direct),,direct,desktop,windows,edge,norway,oslo
+423,79226984622752083591481622655,1,0,1,1,0,0,,lune.fr,referral,referral,tablet,ios,safari,france,paris
+426,73078434587066122591470784355,0,3,2,2,0,0,1.5,youtube.com,referral,social,mobile,android,chrome,netherlands,not available in demodataset
+427,0310441771915489311480926877,0,73,6,9,0,2,11.1666666667,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+428,26602477101916954501480482498,1,0,1,1,0,0,,partners,affiliate,affiliates,mobile,ios,safari,spain,madrid
+436,93869016421238705691470414238,0,117,2,2,0,0,58.5,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+437,08565933357040130491475137384,0,63,5,5,0,0,12.6,(direct),,direct,desktop,macintosh,chrome,united states,mountain view
+439,2438998422127498371480842730,0,190,3,3,0,0,65.0,google,organic,organic search,mobile,ios,safari,germany,
+458,7358546122477428661499753937,1,0,1,1,1,0,,youtube.com,referral,social,desktop,windows,firefox,germany,
+460,2888699496713946111486065434,0,117,8,11,0,2,14.875,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,brazil,san paulo
+461,5647762760488662721485084687,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,spain,madrid
+463,57546062269092708721480122855,0,177,10,14,0,3,17.7,google,cpc,paid search,mobile,android,chrome,united states,mountain view
+468,89677755195002547731470653225,0,620,20,26,0,6,31.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+469,9545129701869803141482166859,0,31,3,3,0,0,10.3333333333,youtube.com,referral,social,desktop,windows,internet explorer,turkey,izmir
+472,36538303721486326471494980129,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,windows,chrome,australia,melbourne
+473,38881707361233371731480467437,0,131,5,7,0,2,26.2,google,organic,organic search,tablet,ios,safari,united states,atlanta
+476,16694417964930562341477616943,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,india,
+480,14866903084774990701497781422,0,504,17,17,0,6,28.2941176471,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+485,68347173568422440291493759969,0,107,4,4,0,0,26.25,partners,affiliate,affiliates,desktop,macintosh,firefox,germany,dusseldorf
+486,73234646955734204211491887195,0,21,3,4,0,2,7.0,moma.corp.google.com,referral,referral,desktop,linux,chrome,sweden,stockholm
+487,65214700519163834981478509742,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,india,
+488,09940466809400021821481483849,1,0,1,1,0,0,,(direct),,direct,mobile,android,chrome,united states,san francisco
+493,53185455271836600591478338505,0,360,4,7,0,0,90.0,google,organic,organic search,mobile,android,chrome,germany,hamburg
+495,08631387468303231521477463201,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,chrome,poland,warsaw
+498,23228037392539237291478225491,0,12,2,2,0,0,6.0,youtube.com,referral,social,tablet,ios,safari,japan,
+503,45861006375300699421472108883,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+504,93561393483523786511481219997,0,113,6,6,0,0,19.1666666667,google,organic,organic search,desktop,macintosh,chrome,thailand,bangkok
+509,60708707477817211481490785706,0,103,5,7,0,2,20.6,siliconvalley.about.com,referral,referral,tablet,android,safari,taiwan,
+512,87345097968338168311489748153,0,3,2,2,0,0,1.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+513,52430489203506601061499301206,1,0,1,1,2,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,
+517,27378624107309249111495111085,0,98,4,4,0,0,24.5,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,israel,pittsburgh
+525,74057139684697642641481949925,0,71,9,12,0,2,7.7777777778,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,sunnyvale
+526,17563128672420621891489632108,0,1017,24,30,0,6,41.7142857143,google,organic,organic search,desktop,macintosh,chrome,canada,toronto
+549,44127466442780203621491013375,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,linux,chrome,switzerland,zurich
+555,4266362032486692451482632009,0,93,2,2,0,0,46.5,youtube.com,referral,social,tablet,ios,safari,germany,
+568,72311538952902060191470272635,0,62,5,6,0,2,12.4,partners,affiliate,affiliates,mobile,ios,firefox,netherlands,hague
+569,44289141860140926921471641485,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,italia,milan
+570,62468142009687521001485022455,0,297,13,18,0,5,22.0769230769,dfa,cpm,display,desktop,macintosh,chrome,united states,charlotte
+572,74639245860426290311497643415,0,205,12,16,0,6,15.8333333333,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,sunnyvale
+578,65340783740962802031482173399,0,101,6,7,0,2,17.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+579,16332458623809899681482153145,1,0,1,1,0,0,,youtube.com,referral,social,mobile,ios,safari (in-app),thailand,bangkok
+582,48548917972606709861480368200,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,czechia,prague
+586,19425091858565352381486317111,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,internet explorer,nepal,
+607,8324481770677582451484628435,0,56,3,3,0,0,18.6666666667,google,organic,organic search,desktop,macintosh,firefox,spain,madrid
+609,37280831639731798051496915034,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+612,07493443996502131531479518487,1,0,1,1,0,0,,(direct),,direct,mobile,ios,safari (in-app),portugal,
+613,99132058229232692271499065800,0,1449,38,44,94,6,37.7222222222,(direct),,direct,desktop,windows,internet explorer,canada,toronto
+618,11768875183114069091474603608,0,223,7,9,0,2,30.4285714286,analytics.google.com,referral,referral,mobile,ios,safari,australia,melbourne
+624,26308333633441284461476161085,0,462,16,20,0,6,28.5625,dealspotr.com,referral,referral,desktop,macintosh,chrome,united states,new york
+630,62919346793049654781483509321,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,pakistan,
+631,55558834816379941011487315913,0,189,11,18,0,3,17.2727272727,(direct),,direct,tablet,ios,chrome,canada,calgary
+645,23745149617938626201494105937,0,9,2,2,0,0,4.5,(direct),,direct,mobile,android,chrome,poland,
+656,23606142931928440261481451747,1,0,1,1,0,0,,google,organic,organic search,mobile,android,chrome,india,
+659,13015142713025022461479324502,0,165,8,8,0,0,20.625,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+660,86345607049883265531481921649,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,japan,
+671,34601816026522683601492167218,0,15,2,2,0,0,7.5,(direct),,direct,mobile,android,chrome,italy,milan
+679,66427882343351135661499119069,0,524,6,7,4,2,88.0,(direct),,direct,desktop,windows,edge,canada,toronto
+684,31598520534989945841488957725,0,59,2,2,0,0,29.5,youtube.com,referral,social,desktop,windows,chrome,india,
+686,35148645864644509481497346817,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,safari,belarus,minsk
+691,76983439613062544341481931970,0,10,2,2,0,0,5.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,kitchener
+694,79842571984578906021496329406,0,114,10,15,0,3,11.4,google,organic,organic search,desktop,windows,firefox,germany,
+695,97350120501767147221488814723,0,34,3,3,0,0,11.3333333333,mail.google.com,referral,referral,desktop,chrome os,chrome,united states,san francisco
+698,67584169715002599771498353058,0,315,14,16,0,6,22.0714285714,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,taiwan,
+708,28922207022648142071484839301,0,102,4,4,0,0,26.0,dfa,cpm,display,desktop,macintosh,chrome,united states,
+729,45223704112955171841496083779,0,15,2,2,0,0,7.5,(direct),,direct,mobile,android,firefox,colombia,bogota
+747,13243727642396360301480967356,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+750,89623712184373698461470822176,0,153,12,12,0,6,13.5,analytics.google.com,referral,referral,desktop,macintosh,chrome,argentina,buenos aires
+756,23498210493182104871481908152,0,152,14,17,0,6,11.0714285714,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+767,81267035142393414371486896230,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,opera mini,india,new delhi
+768,89633374667934104611480190786,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,thailand,bangkok
+769,38305310883157270561480895027,0,180,13,15,0,2,13.6923076923,dfa,cpm,display,desktop,linux,chrome,united states,kirkland
+772,2481930492662187341482486178,0,9,2,2,0,0,4.5,youtube.com,referral,social,desktop,macintosh,safari,vietnam,ho chi minh city
+776,78542759394972297371482151516,0,296,9,11,0,2,32.1111111111,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,new york
+777,406987174589334121476005074,0,28,2,2,0,0,14.0,mail.google.com,referral,referral,desktop,windows,chrome,india,hyderabad
+786,53224517904626870201481583734,0,24,2,2,0,0,12.0,analytics.google.com,referral,referral,desktop,windows,firefox,hong kong,
+795,81726023718227099221488565667,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,amazon silk,hong kong,hong kong
+804,4503901930385951711476069233,0,118,2,2,0,0,59.0,(direct),,direct,mobile,android,firefox,brazil,
+808,65633011486953809961482802659,0,481,11,12,0,2,43.4545454545,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+811,283471482872738131489372980,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,united states,san bruno
+826,03954335866070954571477066226,1,0,1,1,0,0,,analytics.google.com,referral,referral,mobile,android,chrome,ukraine,kiev
+828,96381773775676103701477914442,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,thailand,bangkok
+830,25683170730738853091491241001,0,42,4,4,0,0,10.5,(direct),,direct,desktop,linux,chrome,switzerland,zurich
+833,05462051043467595341497125765,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,india,azamgarh
+839,45246185650121251201485173790,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,macintosh,chrome,belgium,not available in demodataset
+842,34782932073542252631482584523,0,298,11,12,0,2,27.0,google,organic,organic search,mobile,android,chrome,germany,hamburg
+843,19273926885877525871492210995,0,218,12,14,0,2,18.0,sites.google.com,referral,referral,desktop,linux,chrome,canada,calgary
+847,54079611482125806271491955426,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,israel,beersheba
+850,38797949651839668781493708594,0,12,3,3,0,0,4.0,(direct),,direct,desktop,macintosh,safari,united states,
+855,57470939203614514651488283650,0,452,13,13,0,6,33.0,mail.google.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+856,86683334813517522841483576553,0,1058,33,36,0,6,31.7070707071,(direct),,direct,desktop,macintosh,chrome,canada,kitchener
+858,46962959241464943691489216769,0,1874,15,19,0,3,124.9333333333,(direct),,direct,mobile,android,chrome,ireland,dublin
+863,4962941665831935391479943421,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,czechia,orebic
+865,85342128679205221941498645747,0,233,14,24,0,2,16.7142857143,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+877,22004580381807182751487928157,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,russia,not available in demodataset
+878,22451302511204022991475771082,0,62,5,6,0,2,12.4,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+880,6158426209510193781478128026,0,16,3,3,0,0,5.3333333333,mail.google.com,referral,referral,desktop,windows,chrome,united arab emirates,abu dhabi
+891,36378156481860936801481563476,0,714,23,29,0,6,30.8235294118,(direct),,direct,desktop,macintosh,chrome,united states,mountain view
+893,99229219699991220881493566562,1,0,1,1,0,0,,partners,affiliate,affiliates,mobile,android,firefox,germany,
+895,81644970393246330541492920017,0,576,11,15,0,3,52.0909090909,youtube.com,referral,social,desktop,macintosh,safari,colombia,bogota
+896,88552333753411786431477118460,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,chrome,canada,toronto
+897,72147458750543107841472613846,0,40,4,4,0,0,10.0,mail.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+899,58673161941033130201500093066,0,946,16,18,7,6,58.25,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+902,93178983577240521971487773623,0,51,3,3,0,0,17.0,sites.google.com,referral,referral,desktop,linux,chrome,brazil,
+906,53978062228750809811478675203,0,384,13,15,0,2,29.7347826087,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+909,317269835926148761500519559,0,2867,24,30,89,6,118.7647058824,sites.google.com,referral,referral,desktop,linux,chrome,ireland,dublin
+913,07422729077114427411499543408,1,0,1,1,1,0,,google,organic,organic search,mobile,ios,chrome,hong kong,hong kong
+918,92255438408042360791484684858,0,15,2,2,0,0,7.5,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+923,69594041562831271361471928932,0,13,2,2,0,0,6.5,google,organic,organic search,mobile,android,chrome,canada,
+924,99609942037911054431481463121,0,14,2,2,0,0,7.0,(direct),,direct,tablet,ios,safari (in-app),singapore,singapore
+925,78552499919152657771477765939,0,1032,44,77,0,6,23.5142857143,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+926,95001660450540216901482848187,0,57,2,2,0,0,28.5,analytics.google.com,referral,referral,desktop,macintosh,chrome,netherlands,utrecht
+928,40498846384249319851494787750,0,1969,26,41,0,2,76.8461538462,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+931,01623149129108932361473211682,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,macintosh,chrome,united kingdom,london
+933,251558210242634781478462491,1,0,1,1,0,0,,youtube.com,referral,social,mobile,,opera mini,nepal,bhadranau
+941,94823706660029281481470590207,1,0,1,1,0,0,,google,organic,organic search,desktop,macintosh,chrome,spain,madrid
+950,73698060512627429001493923445,0,863,11,13,0,6,78.4545454545,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+954,42433974090024373541480646453,0,1967,20,26,0,2,98.65,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,cambridge
+957,85432232164858534041483782369,0,1226,29,46,0,3,43.2580645161,google,organic,organic search,desktop,macintosh,chrome,canada,
+960,46319332524040780121470068784,0,1461,33,42,0,6,45.5116279069,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+961,54491177778088806791497764656,0,1130,6,7,0,2,198.6666666667,mail.google.com,referral,referral,desktop,windows,chrome,mexico,monterrey
+962,53750309328826832601484378413,1,0,1,1,0,0,,reddit.com,referral,social,desktop,windows,internet explorer,sweden,stockholm
+963,52852545539451071261482303579,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,safari,norway,oslo
+970,56259325890631139711479416629,0,66,4,5,0,0,17.0,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,colombia,bogota
+985,28435937104833386421479185850,0,1372,37,43,0,6,36.6086956522,(direct),,direct,desktop,macintosh,chrome,united states,san francisco
+986,46171826424281499241477328143,0,383,13,15,0,6,29.4615384615,mall.googleplex.com,referral,referral,desktop,windows,chrome,japan,osaka
+987,67941212941376376401480082410,0,1671,44,49,0,6,39.0,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+989,86591609348764350741498520187,0,27,2,2,0,0,13.5,youtube.com,referral,social,mobile,android,opera mini,india,
+990,01356522296471436271470572036,0,67,5,7,0,2,14.4,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,sweden,stockholm
+991,79049759872946983661470751966,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,turkey,antalya
+992,01717639230963989611493390728,0,539,10,12,0,5,53.9,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,kirkland
+999,55903777387038592891483686706,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,irvine
+1000,47719372338887497971478179096,0,968,28,37,0,5,35.7083333333,mail.google.com,referral,referral,desktop,windows,chrome,bulgaria,sofia
+1010,94092823211718791661491953453,1,0,1,1,0,0,,google,cpc,paid search,mobile,android,chrome,india,hyderabad
+1016,54419082210701167971470120266,0,3,2,3,0,2,1.5,google,organic,organic search,mobile,android,chrome,united states,new york
+1018,16321750204000341691480128853,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,germany,
+1020,91400552130885161201497014570,0,1561,6,6,0,0,260.3333333333,(direct),,direct,mobile,android,chrome,australia,sydney
+1021,96078355058223604661490714765,0,485,16,16,0,0,29.1875,partners,affiliate,affiliates,desktop,linux,uc browser,india,new delhi
+1030,01023429763137846521482368918,0,28,3,3,0,0,9.3333333333,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,sunnyvale
+1031,46671158582339816191485328114,0,25,3,3,0,0,8.3333333333,sites.google.com,referral,referral,desktop,linux,chrome,canada,kalamazoo
+1033,42271211223819411391499903048,1,0,1,1,1,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,mountain view
+1039,41907113929540472941498823788,0,9,2,2,0,0,4.5,youtube.com,referral,social,tablet,android,chrome,indonesia,
+1040,30210683983426128761472979647,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,netherlands,amsterdam
+1045,5662063258829032721479746606,1,0,1,1,0,0,,scipy.org,referral,referral,mobile,ios,safari (in-app),germany,berlin
+1049,67392504988327284531490556733,0,720,24,33,0,6,30.0,mail.google.com,referral,referral,desktop,windows,chrome,uruguay,montevideo
+1051,16583988742762581821501087635,1,0,1,1,1,0,,partners,affiliate,affiliates,desktop,windows,chrome,brazil,
+1056,70309025994036552091482142638,0,94,9,9,0,6,10.4444444444,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+1057,63045953118114780991476850923,0,333,17,17,0,6,19.2941176471,(direct),,direct,desktop,macintosh,chrome,united states,
+1063,40949303282136012351486776148,0,50,6,8,0,2,8.3333333333,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,palo alto
+1069,53547102018743620251490022122,0,877,32,40,0,5,26.5375375376,sites.google.com,referral,referral,desktop,linux,chrome,canada,
+1072,15611734041983550731479783426,0,22,3,3,0,0,7.3333333333,(direct),,direct,desktop,macintosh,chrome,united kingdom,london
+1075,40245773449755842271478298744,0,12,3,3,0,0,4.0,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,israel,mountain view
+1080,56861652348972829681473667047,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,firefox,czechia,prague
+1099,37876049122027029461479248450,0,195,4,4,0,0,48.75,youtube.com,referral,social,desktop,windows,edge,thailand,bangkok
+1115,91612241772510248601481972741,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,austria,vienna
+1116,58146603555529801961498385436,0,9,2,2,0,0,4.5,partners,affiliate,affiliates,desktop,macintosh,safari,brazil,sao paulo
+1126,50048663420794990291490260560,1,0,1,1,0,0,,google,organic,organic search,mobile,ios,chrome,germany,berlin
+1127,15642944700966596901482857929,0,2670,48,67,0,4,55.875,(direct),,direct,desktop,windows,firefox,canada,not relevant in demo dataset
+1144,31227738509387605101481946351,0,34,2,2,0,0,17.0,(direct),,direct,desktop,windows,internet explorer,united states,irvine
+1146,72798613288328779101474990145,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,turkey,
+1147,08879470847293552061480458361,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,sunnyvale
+1148,45285220336232336491483367249,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,burkina faso,ouagadougou
+1152,27892580465194288691481219347,1,0,1,1,0,0,,mail.google.com,referral,referral,desktop,macintosh,chrome,mexico,san jose
+1168,11242698186550126691497950466,0,2247,16,18,0,5,135.5625,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+1169,96403541604803711601478625176,0,129,3,3,0,0,44.3333333333,(direct),,direct,mobile,ios,safari,australia,melbourne
+1179,34028211764855225651494631745,0,352,17,21,0,3,20.2941176471,partners,affiliate,affiliates,desktop,windows,internet explorer,switzerland,zurich
+1186,09500186552903756021493516664,0,318,12,13,0,5,26.1666666667,dfa,cpm,display,desktop,chrome os,chrome,united states,mountain view
+1187,35479365655019591351487681625,0,34,5,5,0,0,6.8,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+1190,4483168228543173261495854388,0,4,2,2,0,0,2.0,youtube.com,referral,social,tablet,ios,safari,turkey,istanbul
+1202,82505197336867700881489112937,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,philippines,makati
+1203,01019372273335806261494985901,0,85,3,3,0,0,28.3333333333,mall.googleplex.com,referral,referral,mobile,android,chrome,indonesia,jakarta
+1207,21827285064297388101482105152,1,0,1,1,0,0,,partners,affiliate,affiliates,tablet,ios,safari,sweden,stockholm
+1213,62794036400255600071470404700,0,15,3,3,0,0,5.0,analytics.google.com,referral,referral,desktop,macintosh,firefox,hong kong,hong kong
+1214,82295236388214787591489226923,0,32,4,4,0,0,7.5,mail.google.com,referral,referral,desktop,macintosh,chrome,germany,berlin
+1218,82949340633713850951479516529,0,243,9,11,0,2,26.6666666667,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+1220,89849386438334469061481903122,1,0,1,1,0,0,,(direct),,direct,mobile,android,chrome,germany,
+1221,62722350193903223441486398275,0,172,5,5,0,0,34.4,dfa,cpm,display,desktop,windows,chrome,united states,new york
+1225,36147649499781833541501578748,1,0,1,1,1,0,,google.com,referral,referral,mobile,android,chrome,indonesia,
+1226,87477897313703381181477399803,0,351,11,11,0,0,31.5454545455,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,switzerland,zurich
+1227,88031824096923441011480725007,0,44,2,2,0,0,22.0,(direct),,direct,desktop,windows,edge,canada,toronto
+1237,08149984241276320071478334358,0,738,27,44,0,6,26.2784313726,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1240,33972249104534249211491141408,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,new york
+1249,66045109242192883221479766452,0,39,3,3,0,0,13.0,sites.google.com,referral,referral,desktop,macintosh,chrome,iran,teheran
+1250,35381104866766935591488993675,0,149,8,10,0,3,19.25,dfa,cpm,display,desktop,macintosh,chrome,united states,mountain view
+1256,33207589330464612751482138029,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1257,9310467457880010681494867587,0,175,8,8,0,0,21.625,google,cpc,paid search,tablet,ios,safari,united states,los angeles
+1264,75222661264158937041485260346,0,52,2,2,0,0,26.0,(direct),,direct,tablet,ios,safari (in-app),netherlands,
+1277,31485236681363813941479070608,0,2128,28,30,0,6,75.5,(direct),,direct,desktop,macintosh,chrome,canada,
+1286,33477621942304035041471062837,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,indonesia,
+1288,96238835083158938511481901654,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,argentina,
+1289,65222981210921659041476595138,1,0,1,1,0,0,,(direct),,direct,tablet,ios,safari (in-app),romania,
+1292,0471556206047242921499341115,1,0,1,1,1,0,,partners,affiliate,affiliates,mobile,android,opera mini,indonesia,jakarta
+1298,4778555956806050861476260738,0,17,2,2,0,0,8.5,youtube.com,referral,social,tablet,ios,safari (in-app),japan,
+1303,97033482545203364451472719470,0,907,43,59,0,6,21.5454545455,(direct),,direct,desktop,windows,internet explorer,canada,toronto
+1309,67418379820660562341484290307,0,318,12,12,0,6,26.25,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,not available in demodataset
+1310,67103774863411544311492614217,0,1391,20,25,0,6,68.5,sites.google.com,referral,referral,desktop,linux,chrome,india,hyderabad
+1313,10656265546189045831481270248,0,128,4,4,0,0,30.0,sites.google.com,referral,referral,mobile,android,chrome,canada,toronto
+1316,12630474869713823551479161957,0,82,3,3,0,0,27.3333333333,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+1325,6915406380633433611475715456,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,vietnam,
+1330,84154384038147461911476101928,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,internet explorer,japan,
+1338,19783210167552494951482577650,0,3,2,2,0,0,1.5,dfa,cpm,display,desktop,windows,chrome,united states,new york
+1345,51928104789074822941484725410,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,internet explorer,turkey,izmir
+1352,32982838781900834581496748310,0,81,5,5,0,0,16.2,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+1364,22337876475672226821482107006,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+1365,95692627671073229451488238670,0,16,4,4,0,0,4.0,(direct),,direct,desktop,macintosh,chrome,united states,seattle
+1383,69751773244987639531494958216,0,17,3,3,0,0,5.6666666667,(direct),,direct,desktop,windows,edge,united kingdom,london
+1387,9143522083276481511473936033,0,13,3,3,0,0,4.3333333333,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1389,83954785266827344861475462472,0,2560,39,44,0,5,66.7894736842,dealspotr.com,referral,referral,desktop,macintosh,safari,united states,san francisco
+1394,10481813960123993561497178225,0,592,7,7,0,0,84.4285714286,analytics.google.com,referral,referral,mobile,ios,safari (in-app),germany,hamburg
+1410,85611912134152169441493463517,1,0,1,1,0,0,,partners,affiliate,affiliates,tablet,ios,safari (in-app),poland,warsaw
+1411,40686330070513714411474678046,0,68,3,3,0,0,22.6666666667,sites.google.com,referral,referral,desktop,chrome os,chrome,australia,melbourne
+1415,7894318306385443621494221759,0,36,3,4,0,2,12.0,google,organic,organic search,desktop,macintosh,chrome,argentina,
+1436,97469333957636250811496749047,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,germany,hamburg
+1441,27046858147688226851481525879,0,219,6,11,0,2,36.8333333333,google,organic,organic search,mobile,ios,safari,canada,
+1454,97152257429313239261495631690,0,172,14,16,0,2,12.0421052632,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1456,51909012095360668921472034258,0,278,12,12,0,0,22.3333333333,mail.google.com,referral,referral,desktop,windows,edge,indonesia,jakarta
+1460,60821972189251720671487922194,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,amazon silk,india,
+1471,10946600124532687141472806950,0,1059,5,5,0,0,211.8,dfa,cpm,display,mobile,ios,safari (in-app),united states,san francisco
+1475,42597402037756105061480211223,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,india,hyderabad
+1481,60394912854631848041478517090,0,154,8,10,0,2,19.75,dfa,cpm,display,desktop,macintosh,chrome,united states,austin
+1482,51400954747815296431492917202,0,233,9,10,0,2,25.4444444444,moma.corp.google.com,referral,referral,desktop,chrome os,chrome,israel,tel aviv-yafo
+1504,57829989219727676721472394495,0,45,2,2,0,0,22.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+1509,4206533287601874711494791234,0,1345,31,33,0,5,43.8636363636,(direct),,direct,desktop,macintosh,chrome,germany,
+1511,36722683345369165351480918632,0,657,13,14,0,5,50.5384615385,(direct),,direct,desktop,macintosh,chrome,united states,sunnyvale
+1522,77077137535258488121494804190,0,30,4,8,0,2,7.5,(direct),,direct,desktop,macintosh,safari,hong kong,hong kong
+1524,773521292451970891614979,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,vietnam,da nang
+1530,59136797683997070211481233582,0,332,15,16,0,5,22.4666666667,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+1544,3428388122630625851499400213,0,565,37,53,60,6,14.6038461538,(direct),,direct,desktop,windows,internet explorer,ireland,dublin
+1545,09611694460626674121477861423,0,190,2,2,0,0,95.0,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1550,23618676938088995771489466005,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,japan,osaka
+1551,35781481214225498011474916960,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,india,kharagpur
+1552,54334701193019460881484189617,0,300,9,9,0,0,34.4444444444,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1559,53949952751687384071480310977,0,21,3,3,0,0,7.0,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1560,42353229415485847731487048837,0,59,5,5,0,0,11.8,google,cpc,paid search,tablet,ios,chrome,united states,new york
+1566,54715934128202559301475218535,0,54,2,3,0,0,27.0,youtube.com,referral,social,tablet,ios,safari (in-app),united kingdom,london
+1572,54052665902467486891491187076,0,14,3,3,0,0,4.6666666667,sites.google.com,referral,referral,desktop,linux,chrome,canada,mountain view
+1581,26808410283950151691473183195,0,240,13,14,0,2,18.0,mail.google.com,referral,referral,desktop,windows,chrome,switzerland,zurich
+1587,04577261801534730921479411795,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,chrome,georgia,tbilisi
+1588,28597350802901892511472135702,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,chrome,poland,warsaw
+1593,63939420852324061481485616680,1,0,1,1,0,0,,mail.google.com,referral,referral,mobile,android,android webview,india,hyderabad
+1594,26599316825842460631497823515,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,hong kong,
+1596,175714737942189381497784277,0,887,3,3,0,0,288.3333333333,youtube.com,referral,social,mobile,android,opera mini,india,new delhi
+1598,78576507722036715581499957355,0,744,14,17,0,5,52.0,dfa,cpm,display,tablet,ios,safari (in-app),united states,san francisco
+1600,50890228374377872941475021610,0,494,10,12,0,6,49.4,(direct),,direct,desktop,macintosh,chrome,united states,mountain view
+1604,79809743856931908631470463157,0,1222,9,9,0,0,133.3333333333,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united arab emirates,abu dhabi
+1610,90452899562762587351477272587,0,43,2,2,0,0,21.5,lunametrics.com,referral,referral,desktop,macintosh,chrome,united states,santa clara
+1615,58967153353154765981492155350,0,1108,23,31,0,6,49.6818181818,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+1627,15405800081645209861501405108,1,0,1,1,1,0,,google,organic,organic search,tablet,ios,safari,germany,berlin
+1633,32427428579084333991489232455,0,130,5,5,0,0,26.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+1639,12888941943771565141489339100,1,0,1,1,0,0,,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,iraq,baghdad
+1642,18751191930953433811478818875,0,34,2,2,0,0,17.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,india,pune
+1643,48654293136848879661483627399,1,0,1,1,0,0,,analytics.google.com,referral,referral,tablet,ios,safari,singapore,singapore
+1645,73097455149093381491477137708,0,399,17,24,0,6,23.5882358824,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united kingdom,london
+1647,72060872519291386311477076601,1,0,1,1,0,0,,youtube.com,referral,social,mobile,,opera mini,indonesia,jakarta
+1648,39564437859268750121479712321,0,126,6,7,0,2,20.8333333333,sites.google.com,referral,referral,desktop,linux,chrome,united states,santa clara
+1649,51251435322959303311487603980,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,romania,
+1650,0704856177712860631480714802,0,145,16,20,0,2,9.25,mail.google.com,referral,referral,desktop,macintosh,chrome,canada,new york
+1652,63817935251688896601481794150,0,158,7,7,0,0,21.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+1657,42285222679080462211480341489,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,windows,chrome,united states,san jose
+1665,92358274230387580491477725356,0,36,3,3,0,0,12.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,kitchener
+1668,54974620550728366951481317167,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari (in-app),australia,melbourne
+1690,90674490378513973461498293375,0,140,3,3,0,0,45.0,google,organic,organic search,mobile,android,firefox,italy,
+1691,78847914212035177141490720636,0,1557,42,55,0,6,36.4193548387,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,santa clara
+1693,45151014194724629341481369140,0,2812,46,57,0,5,61.1584115841,(direct),,direct,mobile,android,chrome,hong kong,
+1695,50106117199594741861477309796,0,43,3,3,0,0,14.3333333333,partners,affiliate,affiliates,desktop,windows,firefox,germany,berlin
+1699,41984218157604057621486585196,1,0,1,1,0,0,,mail.google.com,referral,referral,desktop,windows,chrome,netherlands,
+1702,84561609702794862211496828182,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,india,
+1706,67477826726445537541479264294,0,33,2,2,0,0,16.5,youtube.com,referral,social,tablet,ios,safari,turkey,istanbul
+1707,53461634398050882211482513735,0,129,8,8,0,0,16.375,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,israel,beersheba
+1708,24564066983207790981477521664,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,chrome,netherlands,amsterdam
+1719,26402890492768801481474366947,0,520,14,20,0,6,36.7857142857,sites.google.com,referral,referral,desktop,windows,chrome,united states,sunnyvale
+1748,07534350301341133531481212365,0,43,5,5,0,0,8.6,(direct),,direct,desktop,windows,internet explorer,germany,beuthener stern
+1750,20150146758649152541488133782,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,macintosh,chrome,spain,barcelona
+1751,95826156740578346721478938683,0,1133,22,33,0,3,52.9166666667,google,cpc,paid search,mobile,ios,chrome,united states,new york
+1753,9886843288892356071484964001,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,palo alto
+1767,93883833236900140821471715712,0,102,5,5,0,0,20.4,partners,affiliate,affiliates,desktop,windows,internet explorer,netherlands,
+1770,3897457044787038551478694854,0,80,5,5,0,0,16.0,google,organic,organic search,desktop,windows,chrome,india,
+1774,60231051549629188971497088750,0,535,16,22,0,6,33.9375,sites.google.com,referral,referral,desktop,linux,chrome,united states,ann arbor
+1794,97854845962272592381484280433,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,chrome,brazil,
+1796,55359377042668384261473326652,0,846,37,57,0,6,22.3769230769,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,sunnyvale
+1805,95812267899516710501486385506,0,386,14,20,0,2,27.2857142857,lunametrics.com,referral,referral,desktop,macintosh,chrome,israel,mountain view
+1822,48784579478671695841499237161,1,0,1,1,4,0,,dfa,cpm,display,desktop,windows,edge,united states,los angeles
+1830,94861287931538358141470596703,0,67,3,3,0,0,22.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+1836,63814643379265465011481196757,0,92,2,2,0,0,46.0,google,organic,organic search,desktop,windows,internet explorer,spain,madrid
+1843,12084510140142042421480660876,0,283,10,14,0,2,28.3,(direct),,direct,desktop,windows,firefox,portugal,notre dame de laporte
+1847,27363941831130547701482186974,0,229,7,7,0,0,33.2857142857,(direct),,direct,mobile,android,chrome,canada,
+1851,46586973326489720331497678983,0,126,6,6,0,0,20.9333333333,google,organic,organic search,desktop,macintosh,chrome,switzerland,zurich
+1856,77021011922376756511484980452,1,0,1,1,0,0,,dfa,cpm,display,desktop,chrome os,chrome,united states,san francisco
+1857,13819603237488028261495795550,1,0,1,1,0,0,,lunametrics.com,referral,social,tablet,android,chrome,india,hyderabad
+1858,91281812432900034731481569974,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,japan,osaka
+1862,93503191460574813291499140892,1,0,1,1,1,0,,sites.google.com,referral,referral,desktop,linux,chrome,ireland,kirkdale
+1875,13974500388596078121480764351,0,1152,20,26,0,6,57.6,google,organic,organic search,desktop,macintosh,chrome,canada,toronto
+1879,69869836370947127901485332715,1,0,1,1,0,0,,google,organic,organic search,desktop,linux,firefox,india,kharagpur
+1886,2904832090519058501480433758,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,colombia,
+1887,20312630918715732791491630223,0,1,2,2,0,0,0.5,google,organic,organic search,tablet,ios,safari (in-app),united kingdom,
+1902,87574860842074833411486349691,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,germany,frankfurt
+1903,20229767898831494391500699239,0,25,4,4,1,0,6.25,partners,affiliate,affiliates,desktop,windows,internet explorer,indonesia,jakarta
+1911,29873520430194609841487108167,1,0,1,1,0,0,,(direct),,direct,desktop,linux,uc browser,india,
+1913,54838542094769879561499857314,0,281,10,11,98,2,28.1,google,organic,organic search,desktop,macintosh,chrome,united states,mountain view
+1916,288909134847486351481772901,0,4,2,2,0,0,2.0,youtube.com,referral,social,desktop,windows,yabrowser,russia,
+1927,40301130888352102851487397920,0,43,9,11,0,0,4.5555555556,dfa,cpm,display,tablet,ios,safari (in-app),united states,san francisco
+1928,28528997489221236501484114836,0,22,4,4,0,0,5.5,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,new york
+1931,92040626012025829601471755634,0,177,6,8,0,3,29.5,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,pittsburgh
+1932,90580220673549485601494351655,0,58,4,4,0,0,14.5,dfa,cpm,display,desktop,linux,chrome,ireland,dublin
+1947,98994124374925453131470000010,0,1142,3,4,0,2,382.0,baidu,organic,organic search,mobile,android,chrome,japan,osaka
+1954,01998708058451100931490399485,0,150,8,10,0,2,19.25,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+1956,58792627074525259681494297379,0,970,9,12,0,3,110.0,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+1958,95731519719719495081489339975,0,453,22,33,0,5,20.1428571429,sites.google.com,referral,referral,desktop,macintosh,chrome,india,new delhi
+1961,41634549930791897161487114568,0,526,13,15,0,6,41.0769230769,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+1974,642540309947886171472682090,0,333,14,16,0,6,24.0714285714,reddit.com,referral,social,desktop,macintosh,chrome,united states,new york
+1977,95870869322506327031478680704,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,india,
+1978,15410540791467474931496976579,0,302,5,5,0,0,60.4,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+1998,25655146030934456401474817894,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,firefox,united states,palo alto
+1999,33863630848690674501473429356,0,286,15,17,0,6,19.2,mall.googleplex.com,referral,referral,desktop,chrome os,chrome,united states,san francisco
+2023,48162552643043078741498950375,0,294,18,29,0,6,15.2777777778,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+2025,72537797561131132511472323865,1,0,1,1,0,0,,partners,affiliate,affiliates,tablet,ios,safari (in-app),belarus,minsk
+2027,56516443391275630351493523689,1,0,1,1,0,0,,dfa,cpm,display,mobile,android,chrome,united states,los angeles
+2041,1895862368231817361494051648,0,78,5,5,0,0,15.6,(direct),,direct,desktop,windows,internet explorer,netherlands,amsterdam
+2051,35966241922356065281501019058,1,0,1,1,1,0,,google.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+2052,89484752765871702991497274865,0,79,8,9,0,0,9.75,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+2066,20053193693884998621499640397,0,15,4,6,4,3,3.75,mail.google.com,referral,referral,desktop,macintosh,chrome,singapore,singapore
+2069,61081086999035451771489182452,0,723,6,6,0,0,120.5,sites.google.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+2081,71135154635243842961498138349,0,503,9,9,0,5,56.1111111111,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+2084,13679249721258184741481061315,0,548,20,25,0,5,27.4,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+2090,2292935380248158071487512108,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,philippines,quezon city
+2093,24670936182111022371493579995,0,16,2,2,0,0,8.0,(direct),,direct,desktop,linux,uc browser,brazil,sao paulo
+2101,07820244855241318211497863974,1,0,1,1,0,0,,(direct),,direct,tablet,ios,safari (in-app),united states,san francisco
+2104,44766812251847744421498715346,0,25,3,4,0,2,8.3333333333,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2105,57384636625369380041485468722,0,1047,20,21,0,2,523.8,partners,affiliate,affiliates,desktop,chrome os,chrome,australia,sydney
+2109,52513072325381908541476148794,0,57,5,5,0,0,11.4,(direct),,direct,mobile,ios,safari (in-app),united states,san francisco
+2112,08225619808674404111476575699,0,205,7,8,0,2,29.1428571429,(direct),,direct,tablet,android,chrome,united states,mountain view
+2113,65144892688053371661496317705,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,chrome os,chrome,united kingdom,london
+2116,7853917122538994771492483403,0,48,2,2,0,0,24.0,youtube.com,referral,social,desktop,windows,chrome,india,
+2117,07777525590310147401484815475,0,171,16,20,0,5,10.9375,analytics.google.com,referral,referral,tablet,ios,safari,australia,melbourne
+2119,51593228147604427111487932078,0,6,2,3,0,2,3.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+2122,72311437071323820511477804072,0,587,2,2,0,0,298.5,partners,affiliate,affiliates,desktop,windows,internet explorer,poland,warsaw
+2125,27606075500703484961485198117,1,0,1,1,0,0,,analytics.google.com,referral,referral,tablet,android,chrome,norway,oslo
+2131,07602823479100801471488977952,1,0,1,1,0,0,,(direct),,direct,tablet,ios,safari,canada,toronto
+2132,13818722837727622681476710262,0,55,2,2,0,0,27.5,mall.googleplex.com,referral,referral,desktop,linux,chrome,switzerland,
+2133,2864984574551447881477334358,0,66,10,15,0,2,6.6,sites.google.com,referral,referral,desktop,windows,chrome,united states,san jose
+2135,894051230619845271480777879,1,0,1,1,0,0,,mail.google.com,referral,referral,desktop,windows,internet explorer,ireland,dublin
+2139,55181824557843027711472716614,0,275,7,7,0,0,39.1428571429,(direct),,direct,tablet,ios,safari (in-app),norway,oslo
+2142,11799900041110495751492778587,0,53,2,3,0,2,26.5,analytics.google.com,referral,referral,desktop,macintosh,chrome,czech republic,prague
+2143,53352920665116346631481647505,0,440,12,16,0,6,36.6666666667,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,hong kong,hong kong
+2144,28474204558482864791483165954,0,931,8,11,0,4,115.375,mail.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+2150,13906868574529636511481979548,0,257,12,12,0,0,21.5833333333,google,organic,organic search,tablet,ios,safari,netherlands,hoofddorp
+2153,57468030565437947111492042645,1,0,1,1,0,0,,google.com,referral,referral,mobile,ios,safari (in-app),japan,minato
+2158,5634154625783649821476243424,1,0,1,1,0,0,,dfa,cpm,display,mobile,android,uc browser,bangladesh,dhaka
+2160,74015613960616670691499406065,0,68,5,5,2,0,12.6,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,seattle
+2161,07466780463694732631482163193,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,chrome,colombia,
+2168,5896488799701004901540121570,1,0,1,1,2,0,,google,organic,organic search,desktop,windows,chrome,india,hyderabad
+2173,06241065894915276881480434677,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,safari,netherlands,amsterdam
+2176,94762867175352350811472226555,0,9,2,2,0,0,4.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+2177,3706201488611374741490445837,0,367,13,13,0,6,29.2307692308,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2181,54735430033689769131497301943,0,453,12,16,0,5,38.4166666667,moma.corp.google.com,referral,referral,desktop,windows,chrome,israel,tel aviv-yafo
+2184,42140763980113280501470953566,0,19,2,2,0,0,9.5,google,organic,organic search,desktop,macintosh,internet explorer,australia,melbourne
+2188,98366888023016802141489561703,0,4,2,2,0,0,2.0,mall.googleplex.com,referral,referral,desktop,windows,chrome,canada,toronto
+2193,82308523241772925511496683332,0,1054,14,19,0,6,73.9285714286,dfa,cpm,display,desktop,linux,chrome,united states,mountain view
+2201,98643327930335244781475595543,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,linux,chrome,hong kong,kowloon
+2207,97293956513444222241470265968,0,309,16,20,0,6,19.875,sites.google.com,referral,referral,desktop,linux,chrome,united states,kirkland
+2210,36482339435192361361491259430,0,1296,4,4,0,0,311.0,google,organic,organic search,mobile,ios,safari,japan,minato
+2214,61366253950307646311497817591,0,57,6,6,0,0,9.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+2217,13760773952656694781482146879,0,123,4,5,0,2,30.75,moma.corp.google.com,referral,referral,tablet,ios,safari (in-app),ireland,dublin
+2218,07043747949452263261478367533,1,0,1,1,0,0,,youtube.com,,social,desktop,windows,edge,belarus,minsk
+2223,26927382911541434541499423730,0,78,5,5,1,0,15.6,dfa,cpm,display,tablet,ios,safari,united kingdom,london
+2233,51692158143220348671498656251,0,39,4,6,0,3,9.75,dfa,cpm,display,mobile,ios,safari,united states,new york
+2234,16854489751697618091486673773,0,97,3,3,0,0,32.3333333333,dealspotr.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+2236,36449505895581758711490099911,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,firefox,colombia,
+2240,91765382760048880651481516560,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,burkina faso,
+2242,9505371158821553641472696143,0,66,6,8,0,2,11.3333333333,(direct),,direct,desktop,linux,firefox,canada,kitchener
+2244,92112582473382448661477523158,0,218,18,24,0,6,11.5555555556,mail.google.com,referral,referral,desktop,windows,chrome,united arab emirates,dubai
+2246,75638162454474434231481945353,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,santa clara
+2250,25984154880234315061497009583,0,62,7,11,0,3,8.8571428571,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2256,0009105486941194361484345184,0,132,8,10,0,3,17.75,(direct),,direct,mobile,android,chrome,canada,
+2264,29374743122231814471482484666,0,46,4,6,0,2,11.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2274,38509374956769387891482104539,0,77,3,3,0,0,25.6666666667,google,organic,organic search,desktop,windows,edge,netherlands,
+2279,73085671196210826881480761987,0,8,2,2,0,0,4.0,google,organic,organic search,desktop,windows,chrome,netherlands,
+2282,26319588221285374111489235439,1,0,1,1,0,0,,analytics.google.com,referral,referral,tablet,android,chrome,slovakia,
+2291,49547491672395700741476291643,1,0,1,1,0,0,,(direct),,direct,tablet,ios,safari (in-app),denmark,copenhagen
+2296,80902962888860623071474311009,0,35,3,5,0,3,11.6666666667,gdeals.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,austin
+2301,69006423829940872591485297279,0,156,10,12,0,6,15.6,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,israel,tel aviv-yafo
+2303,40717004635755939071490909218,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,hong kong,maui
+2311,25135878897967518611475529076,0,173,11,11,0,0,15.5454545455,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,
+2320,66234288789783744741482910078,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+2321,97272994335857978001484254450,0,78,3,3,0,0,26.6666666667,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2324,45746480033839753961470499904,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,brazil,sao paulo
+2326,99622746160052788361478978059,0,760,18,19,0,6,43.6111111111,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+2336,400847232263851411481501417,0,19,2,2,0,0,9.5,youtube.com,referral,social,desktop,windows,internet explorer,vietnam,hanoi
+2347,9877459676046890841496438446,0,249,18,25,0,6,14.1111111111,google,organic,organic search,desktop,macintosh,chrome,united states,mountain view
+2353,59862713777700161471489589606,0,5,2,2,0,0,2.5,google,cpc,paid search,desktop,windows,chrome,mexico,san jose
+2359,94119113500969228061494496811,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,india,new delhi
+2361,44472322848025673941485892755,0,916,20,23,0,6,45.8,dfa,cpm,display,desktop,macintosh,chrome,united states,san francisco
+2366,1711381567423691031474390705,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,united states,san francisco
+2367,58162280213177672131482210506,0,1873,23,31,0,6,82.0,(direct),,direct,desktop,linux,chrome,israel,kiryat ono
+2372,39819075457077056111476903355,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,firefox,united states,san francisco
+2378,68968131192193766361484893732,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,mountain view
+2381,86343788777795092821484772327,0,38,2,2,0,0,19.0,partners,affiliate,affiliates,desktop,macintosh,chrome,india,hyderabad
+2382,77090027207181798091482557311,0,5,2,2,0,0,2.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,pittsburgh
+2389,83275555141546929641488664740,0,61,5,5,0,0,12.2,google,organic,organic search,mobile,android,chrome,singapore,
+2393,66198991922537342451493821383,0,20,2,2,0,0,10.0,google,cpc,paid search,tablet,ios,safari,indonesia,jakarta
+2394,79691054883468695641473947240,0,72,3,3,0,0,24.6666666667,analytics.google.com,referral,referral,desktop,linux,uc browser,bulgaria,kozevtsi
+2397,0062978116393686641498238915,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,mountain view
+2412,45671986291482649871481183038,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,india,
+2415,67301771605248677241485652204,0,154,9,12,0,2,17.2222222222,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,calgary
+2418,16961754554301100781497605512,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united kingdom,london
+2424,68119923970227197411478092380,0,13,2,2,0,0,6.5,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,hong kong,
+2436,87652691942504244301481963246,0,155,2,2,0,0,77.5,google,organic,organic search,tablet,android,chrome,israel,mountain view
+2451,72559606813882986141495901947,0,85,4,4,0,0,21.25,(direct),,direct,mobile,android,chrome,united states,san francisco
+2454,18076145129329746471493188975,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari (in-app),thailand,bangkok
+2483,78316979642112325891498135348,0,118,4,4,0,0,29.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+2488,0780521527323189451475450765,0,21,3,3,0,0,7.0,analytics.google.com,referral,referral,desktop,macintosh,safari,ireland,dublin
+2493,8641686856031142921474581818,0,406,14,16,0,6,28.4285714286,(direct),,direct,desktop,windows,firefox,united states,atlanta
+2498,29167119091498326981485517365,0,26,3,3,0,0,8.6666666667,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2511,63793448295591155581484363937,0,50,3,3,0,0,16.6666666667,youtube.com,referral,social,desktop,windows,internet explorer,brazil,
+2521,89090444294319217471478082928,0,6,2,2,0,0,3.0,dealspotr.com,referral,referral,desktop,windows,opera,israel,tel aviv-yafo
+2532,57097549972011928651499711815,1,0,1,1,1,0,,youtube.com,referral,social,mobile,android,chrome,slovakia,
+2535,37983046303131415731486517130,0,1350,23,26,0,6,61.1565359619,sites.google.com,referral,referral,desktop,macintosh,chrome,indonesia,jakarta
+2539,05594053041791039471476960144,0,9,2,3,0,3,4.5,mail.google.com,referral,referral,desktop,macintosh,chrome,united arab emirates,dubai
+2541,26073701272035487341479136113,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,android webview,spain,barcelona
+2544,49041032632821729781495719828,0,769,19,19,0,6,40.5263157895,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2551,1082280749113706251474500965,0,64,5,5,0,0,12.8,google,organic,organic search,tablet,ios,safari,france,paris
+2559,85811970726773562741489499214,1,0,1,1,0,0,,partners,affiliate,affiliates,tablet,ios,safari (in-app),canada,toronto
+2564,65784219298272609611477253712,0,136,4,4,0,0,34.0,google,organic,organic search,desktop,macintosh,chrome,canada,
+2570,60775460441851769151494092641,0,2880,100,143,0,5,28.8,(direct),,direct,desktop,windows,firefox,czech republic,olomouc
+2571,893607858996434651480150677,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,belarus,
+2572,88073112362272887511499004709,0,4,2,2,1,0,2.0,youtube.com,referral,social,mobile,android,opera mini,india,new delhi
+2577,59368901731883857731481708200,0,182,15,15,0,6,12.4666666667,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2581,42784079403090369081494194539,0,17,4,6,0,3,4.25,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2584,49669392633353268171477560242,0,59,3,3,0,0,21.6666666667,google,organic,organic search,desktop,macintosh,firefox,switzerland,zurich
+2586,51244648484201461411475390736,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,chrome,czechia,olomouc
+2591,93163709744516449471488207348,0,470,13,16,0,6,36.2307692308,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,argentina,buenos aires
+2593,01834664371464388501481945958,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,vietnam,ho chi minh city
+2599,82765499268347660521478793156,0,54,3,3,0,0,18.6666666667,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+2600,94144858579916594261484394437,0,32,2,2,0,0,16.0,youtube.com,referral,social,desktop,windows,firefox,nepal,
+2606,92554137225220637841495806950,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,vietnam,hanoi
+2608,27870640875143313921488764630,1,0,1,1,0,0,,(direct),,direct,mobile,ios,safari,united states,san francisco
+2628,76805524156329547071489405184,1,0,1,1,0,0,,youtube.com,referral,social,mobile,ios,safari,japan,
+2638,48567675459256695801489993594,0,28,2,2,0,0,14.0,(direct),,direct,desktop,macintosh,chrome,canada,
+2641,68171286094136309901476031757,1,0,1,1,0,0,,dfa,cpm,display,desktop,windows,chrome,united states,new york
+2647,64897568799087284331487804232,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+2660,21640502700466586261495997077,0,2928,2,2,0,0,1464.0,(direct),,direct,desktop,linux,chrome,ireland,dublin
+2661,47497542438233854971479363891,0,137,4,4,0,0,34.25,google,cpc,paid search,tablet,ios,safari (in-app),taiwan,
+2664,0455844506787301751495216236,0,18,3,3,0,0,6.0,sites.google.com,referral,referral,desktop,macintosh,chrome,uruguay,montevideo
+2669,09165192650700793031485340607,1,0,1,1,0,0,,dfa,cpm,display,desktop,linux,chrome,united states,washington
+2673,29239668204671378331499311318,0,103,3,4,2,2,34.3333333333,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+2676,72189579941794154451477303960,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,brazil,los angeles
+2679,39567570622059050901481156976,0,42,2,2,0,0,21.0,youtube.com,referral,social,desktop,windows,chrome,serbia,
+2686,63594768228246066261485290310,0,580,26,35,0,2,21.6153846154,analytics.google.com,referral,referral,desktop,macintosh,chrome,australia,melbourne
+2688,7961827128473777901494360489,0,250,3,3,0,0,83.3333333333,google,organic,organic search,desktop,windows,chrome,italy,
+2705,35389072148330270551497676938,1,0,1,1,0,0,,(direct),,direct,desktop,linux,firefox,canada,kitchener
+2706,33870297462451435941470515615,0,7,2,2,0,0,3.5,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+2708,9703833669512348241500122117,1,0,1,1,1,0,,analytics.google.com,referral,referral,desktop,macintosh,chrome,indonesia,jakarta
+2709,37285287819612112211484114701,0,27,3,3,0,0,9.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,
+2718,1307749709429513741474209243,0,42,5,5,0,0,8.4,mall.googleplex.com,referral,referral,mobile,ios,safari (in-app),united states,
+2720,27072344767285651041478724691,1,0,1,1,0,0,,playmarket.google.com,referral,referral,desktop,macintosh,opera,south africa,pretoria
+2723,97793624514998532021479583205,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,belarus,
+2725,40736621889087604211483798941,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,
+2730,00194563092254228461474721291,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,uzbekistan,tashkent
+2732,96000923208177641051492100929,0,19,3,5,0,2,6.3333333333,google,organic,organic search,tablet,ios,safari,poland,warsaw
+2737,53611008409443044741473883000,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,chrome os,chrome,united states,san jose
+2777,53106597289816005561487356445,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,india,new delhi
+2779,46427298173009333861487784500,0,89,4,4,0,0,22.25,dfa,cpm,display,desktop,linux,chrome,united states,mountain view
+2781,79489198057071503651471900004,0,583,26,29,0,6,22.5384615385,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+2783,04226340337897763551479930588,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,italy,milan
+2804,77006428718244152531489630679,0,17,2,2,0,0,8.5,youtube.com,referral,social,desktop,windows,edge,turkey,istanbul
+2809,71912661463738601071490161507,1,0,1,1,0,0,,(direct),,direct,tablet,ios,safari (in-app),united states,san francisco
+2811,15464857942961663271477031841,0,107,5,5,0,0,21.4,google,organic,organic search,desktop,windows,firefox,poland,wroclaw
+2840,53864896649626109151486098487,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,turkey,
+2841,97620395470771257141472364931,1,0,1,1,0,0,,google,organic,organic search,mobile,ios,safari,switzerland,zurich
+2842,80677011530905272491483111203,0,32,5,5,0,0,6.4,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,india,new delhi
+2844,56329688746736267141477681149,0,34,3,3,0,0,11.3333333333,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2845,33740527340370532661473392000,0,51,4,4,0,0,13.0,dfa,cpm,display,desktop,macintosh,chrome,united states,san mateo
+2847,719592197297417551475264904,1,0,1,1,0,0,,qwest.net,referral,referral,desktop,windows,internet explorer,canada,waterloo
+2850,38404499477801325411474639631,0,244,9,10,0,2,27.2222222222,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,kitchener
+2851,03904214565114488391477939953,0,383,13,13,0,0,29.4615384615,(direct),,direct,desktop,linux,chrome,united states,mountain view
+2858,29876775119533860711470526683,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,bulgaria,speke hall
+2862,34598577241113159971488404344,0,5,2,2,0,0,2.5,google,organic,organic search,desktop,macintosh,chrome,germany,
+2866,26065932877913386701498530347,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+2867,32049796827498479511477081804,0,137,9,10,0,0,15.4444444444,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+2871,10041459678228135561501110316,0,494,2,2,1,0,247.0,analytics.google.com,referral,referral,desktop,windows,internet explorer,germany,berlin
+2872,55329700254557731371486290162,0,168,8,8,0,0,20.875,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+2883,28283816100244720931483617601,0,35,3,5,0,3,11.6666666667,google,organic,organic search,mobile,android,chrome,canada,toronto
+2885,95787930187937773671473487489,0,358,16,17,0,2,20.5,(direct),,direct,desktop,macintosh,chrome,united states,new york
+2893,33747863238250188911475190492,0,442,13,16,0,6,34.4615384615,google,organic,organic search,tablet,ios,safari,united states,san francisco
+2895,25014240334729702661481209230,0,43,5,5,0,0,8.6,analytics.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+2896,75531782301564766781496226786,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,ukraine,not available in demodataset
+2899,07188450213261151221481543619,0,9,2,2,0,0,4.5,(direct),,direct,mobile,android,chrome,singapore,
+2902,09665347826425649931497123131,0,105,9,12,0,3,11.6666666667,dfa,cpm,display,desktop,macintosh,safari,united kingdom,london
+2907,61739259331668988791497909717,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,hong kong,
+2912,8540916037812531111474712411,1,0,1,1,0,0,,google,cpc,paid search,mobile,ios,chrome,united states,san francisco
+2919,49354022874900064061481109211,0,60,12,14,0,6,4.8666666667,(direct),,direct,desktop,linux,chrome,canada,kitchener
+2931,00609663768071949981492588154,1,0,1,1,0,0,,google,organic,organic search,mobile,ios,safari,australia,melbourne
+2933,17694694182537385791497201863,0,1650,21,27,0,2,81.8181818182,google,organic,organic search,desktop,macintosh,chrome,united states,
+2938,63987619973217004621479100602,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,malaysia,suburban malaysia district
+2943,37606968457701341601499217132,1,0,1,1,1,0,,(direct),,direct,desktop,macintosh,firefox,poland,warsaw
+2949,124648287041423551497269438,0,25,3,3,0,0,8.3333333333,(direct),,direct,tablet,ios,safari (in-app),sweden,stockholm
+2956,19512717080572143331480526077,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,indonesia,jakarta
+2958,56643988497942635361479523044,0,49,4,4,0,0,12.25,google,organic,organic search,mobile,android,chrome,mexico,san jose
+2963,79981577492853759181496603545,0,53,7,8,0,2,7.5714285714,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,switzerland,zürich
+2966,29856185361264999851481616274,0,67,3,3,0,0,22.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+2984,66552162513964306651497725928,0,1022,42,55,0,6,24.8333333333,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,mountain view
+2987,93676726837524556081492708206,0,178,10,12,0,3,17.8,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,israel,tel aviv-yafo
+2992,81649246541217479771499944895,1,0,1,1,1,0,,partners,affiliate,affiliates,desktop,macintosh,chrome,indonesia,jakarta
+2993,12828035293396370361477365774,0,58,3,3,0,0,19.3333333333,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,toronto
+3002,49650126011836839921477815745,0,5,2,2,0,0,2.5,google,organic,organic search,desktop,macintosh,chrome,philippines,quezon city
+3006,81560923523382316321472746676,0,2045,86,157,0,5,23.9333333333,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,mountain view
+3009,27294103046808377601480838899,0,40,2,2,0,0,20.0,(direct),,direct,tablet,ios,safari (in-app),australia,hong kong
+3012,68386979365646296281475051054,0,354,12,15,0,3,29.5833333333,(direct),,direct,mobile,android,chrome,united states,los angeles
+3013,3682758128544723751495738673,0,2540,4,4,0,0,625.0,youtube.com,referral,social,tablet,ios,safari (in-app),india,bengaluru
+3024,42887607269909409981499133966,1,0,1,1,1,0,,partners,affiliate,affiliates,desktop,linux,firefox,austria,
+3025,41576238105717925251488379280,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,chrome,sweden,stockholm
+3030,0859684110064047731476929502,1,0,1,1,0,0,,moma.corp.google.com,referral,referral,desktop,windows,chrome,ukraine,
+3039,69107978283280841781481963544,0,433,7,10,0,2,62.5714285714,sites.google.com,referral,referral,desktop,macintosh,chrome,united kingdom,london
+3046,17095657228853748781476122759,0,192,2,2,0,0,96.0,youtube.com,referral,social,tablet,ios,safari,turkey,istanbul
+3047,52304711534321499431499602392,1,0,1,1,1,0,,analytics.google.com,referral,referral,desktop,windows,firefox,italy,milan
+3053,14947487562138362861474971786,1,0,1,1,0,0,,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+3054,62569176637616396161482849475,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,indonesia,
+3056,84976730372960973531487379130,0,95,4,4,0,0,24.25,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3057,45196787947127697851495213471,0,11,4,6,0,2,2.875,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+3065,22625642186718687471479165908,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,france,paris
+3071,18947465172656054831478729082,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+3079,1589005848291187881477692983,0,1854,19,29,0,3,98.0,google,organic,organic search,tablet,ios,safari,united states,san francisco
+3087,22928622422118938281482686139,0,740,12,12,0,0,62.5,mail.google.com,referral,referral,desktop,linux,chrome,united states,cambridge
+3092,47284671285095896201496543913,0,157,13,15,0,6,12.3846153846,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+3095,87353696185847880941474918666,0,88,4,6,0,3,22.0,dfa,cpm,display,desktop,macintosh,chrome,united states,mountain view
+3096,25837137333680667591493976093,0,168,4,4,0,0,40.0,partners,affiliate,affiliates,desktop,macintosh,firefox,australia,sydney
+3098,43789213814701075321481315740,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,peru,la victoria
+3114,93261763021194800661494879886,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+3119,59888679348734325951472115569,0,211,10,13,0,3,21.1,(direct),,direct,desktop,windows,chrome,brazil,
+3126,42395010377905838981481550680,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,mexico,
+3140,0425719011581156751485134806,0,232,7,7,0,0,32.4285714286,youtube.com,referral,social,desktop,windows,edge,brazil,
+3148,79623644819112782451493309690,0,481,6,9,0,3,78.5,google,organic,organic search,desktop,macintosh,chrome,united states,san jose
+3151,27746157330510051881493054328,0,540,19,29,0,2,30.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,ireland,dublin
+3153,65357539116116712221497488234,0,1691,21,26,0,6,81.7921052632,(direct),,direct,desktop,windows,internet explorer,hong kong,hong kong
+3155,47414853811035445451478525865,0,13,2,2,0,0,6.5,partners,affiliate,affiliates,desktop,windows,chrome,germany,berlin
+3163,42834464013167796861478283005,0,438,2,3,0,0,219.0,partners,affiliate,affiliates,desktop,windows,firefox,sweden,stockholm
+3165,86599594166561479411474449922,0,135,6,6,0,0,21.1666666667,mail.google.com,referral,referral,desktop,chrome os,chrome,japan,
+3168,52060974334895273861501564816,0,52,4,4,2,0,13.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3178,81646629661884742761481340895,0,57,4,5,0,2,14.25,youtube.com,referral,social,tablet,android,chrome,brazil,
+3180,87321271211751872421481133236,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,palo alto
+3183,82118878824836445361488254710,0,56,4,5,0,2,13.0,(direct),,direct,mobile,android,chrome,canada,
+3184,65075972480266497591492382107,0,1492,24,29,0,6,63.8333333333,sites.google.com,referral,referral,desktop,linux,chrome,india,hyderabad
+3192,67146891340556724021496589654,0,513,31,34,0,6,17.3863636364,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+3195,55399325585378214781485351165,0,52,3,4,0,2,17.3333333333,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3200,48507092490939458701479645331,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,vietnam,ho chi minh city
+3204,02711305908579306571492386550,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,romania,
+3208,67145092722937742971496933896,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,redwood city
+3216,27508135630636009321495317906,0,27,2,2,0,0,13.5,google,organic,organic search,mobile,android,chrome,colombia,
+3232,19469237488176122061478161598,0,57,2,2,0,0,28.5,(direct),,direct,mobile,android,chrome,belarus,
+3235,94394117961896291311470309863,0,235,10,11,0,2,23.5,lunametrics.com,referral,referral,tablet,ios,safari,canada,toronto
+3246,07675240171740101761477861628,0,130,6,8,0,2,21.6666666667,(direct),,direct,desktop,macintosh,chrome,ireland,dublin
+3251,1458024657445392431490090398,0,1292,15,17,0,2,82.4666666667,google,cpc,paid search,desktop,windows,edge,mexico,mexico city
+3252,49572403299401037611477291758,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,mexico,
+3260,12312345111784049341484101749,0,10,2,2,0,0,5.0,(direct),,direct,desktop,macintosh,chrome,germany,berlin
+3265,60472719014160785561491633535,1,0,1,1,0,0,,google,organic,organic search,tablet,android,chrome,denmark,copenhagen
+3268,34178839752722372331481034355,0,27,3,3,0,0,9.0,youtube.com,referral,social,desktop,windows,internet explorer,netherlands,
+3272,80862668108460635511491402409,0,32,2,2,0,0,16.0,(direct),,direct,tablet,ios,safari (in-app),france,paris
+3277,74250962163932051221488430990,1,0,1,1,0,0,,google,organic,organic search,desktop,macintosh,chrome,ireland,
+3282,58925835732033005331488140917,0,8,2,2,0,0,4.0,analytics.google.com,referral,referral,desktop,macintosh,chrome,switzerland,zurich
+3284,94772262872720322141477266871,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,indonesia,
+3285,86954379899136812481488270708,1,0,1,1,0,0,,youtube.com,referral,social,mobile,,opera mini,thailand,bangkok
+3293,37756296248019979591488044438,0,77,1,2,0,0,77.0,(direct),,direct,desktop,macintosh,safari,pakistan,karachi
+3300,59713697087868683701493425141,0,5,2,2,0,0,2.5,google,organic,organic search,desktop,windows,chrome,canada,
+3308,60102735993117109181484384307,0,318,20,20,0,6,15.9,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,taiwan,
+3331,34329980611516481191482416423,1,0,1,1,0,0,,(direct),,direct,mobile,android,chrome,vietnam,hanoi
+3341,48629144012568943061470919842,0,19,3,3,0,0,6.3333333333,youtube.com,referral,social,desktop,windows,edge,france,
+3345,98655811356286850701498510468,0,3,2,2,0,0,1.5,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+3350,56196270889712336211484240013,0,36,4,4,0,0,9.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+3352,53477124708594353491476685441,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari (in-app),germany,
+3357,13058936337374349831489638259,1,0,1,1,0,0,,google,organic,organic search,mobile,android,chrome,india,
+3361,44909630671345014821495071900,0,461,10,15,0,3,46.1,sites.google.com,referral,referral,desktop,windows,chrome,united states,redwood city
+3362,05384274856074887861489370691,0,260,17,29,0,5,16.5882352941,mail.google.com,referral,referral,desktop,windows,chrome,argentina,buenos aires
+3364,76429893984179496851478586522,0,12,3,3,0,0,4.0,google,organic,organic search,desktop,windows,edge,spain,barcelona
+3368,69704691937475464351500562935,0,154,9,11,2,0,17.1111111111,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,
+3369,88456140118868230851484585860,0,74,7,10,0,3,10.625,google,cpc,paid search,desktop,linux,uc browser,india,new delhi
+3370,03779281066541877751484029156,0,220,10,12,0,2,22.0,dfa,cpm,display,desktop,linux,chrome,united states,mountain view
+3376,56318542049686895401496611773,0,219,11,15,0,3,19.9090909091,sites.google.com,referral,referral,desktop,linux,chrome,mexico,san jose
+3382,27008893432532829871499964021,1,0,1,1,1,0,,partners,affiliate,affiliates,mobile,android,opera mini,indonesia,jakarta
+3385,40651339625096734111486696286,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,indonesia,
+3386,40229962284384719631493654107,1,0,1,1,0,0,,google,organic,organic search,tablet,ios,safari,spain,barcelona
+3393,08021459528837252981475356736,0,1040,3,3,0,0,340.0,dfa,cpm,display,tablet,ios,safari (in-app),united kingdom,london
+3398,73287963005090659811492120127,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,romania,
+3401,07160483321877953801470153520,0,27,2,2,0,0,13.5,partners,affiliate,affiliates,desktop,windows,internet explorer,germany,berlin
+3408,17058003012577735981487234008,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,safari,sweden,stockholm
+3411,52438701080186483991471869799,0,116,11,13,0,6,10.5454545455,l.facebook.com,referral,social,desktop,macintosh,chrome,netherlands,
+3428,54748866638701354561489215659,0,863,15,19,0,6,58.1333333333,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3434,20736878604442521861479978129,0,255,12,16,0,6,21.0833333333,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,mountain view
+3437,41292173479863606021470239446,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,opera mini,nigeria,
+3461,26171531036707406241475325490,0,23,3,3,0,0,7.6666666667,mail.google.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+3476,45485245213880691841475014099,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,poland,opatow
+3477,95147004134750321131485524078,0,433,12,16,0,6,36.0,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+3479,43536441176544371111476193460,0,54,4,6,0,2,13.5,youtube.com,referral,social,tablet,ios,safari (in-app),united states,
+3483,19380627319650008211477549483,0,99,6,6,0,0,17.5,dfa,cpm,display,desktop,macintosh,chrome,united states,atlanta
+3487,12277639059380397621500557816,1,0,1,1,2,0,,gdeals.googleplex.com,referral,referral,desktop,windows,chrome,united states,sunnyvale
+3489,34310588686568230501481863088,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,thailand,bangkok
+3490,98064611814561889171487017975,0,4,2,2,0,0,2.0,google,organic,organic search,desktop,windows,edge,sweden,gothenburg
+3492,4167986488015072751481281161,0,223,6,7,0,2,38.8333333333,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san bruno
+3503,56552214906342948291497626213,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,ann arbor
+3505,1426620330271478341481113308,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,internet explorer,brazil,sao paulo
+3508,73451111634617219141493888509,0,14,3,3,0,0,4.6666666667,google,organic,organic search,desktop,macintosh,chrome,france,
+3510,48321627798246469771496943500,1,0,1,1,0,0,,partners,affiliate,affiliates,mobile,android,opera mini,indonesia,jakarta
+3519,68601836917794250801479628744,0,187,10,16,0,2,18.7,dfa,cpm,display,mobile,android,chrome,united states,mountain view
+3524,56585459069214177771471424824,1,0,1,1,0,0,,(direct),,direct,mobile,android,chrome,united states,san francisco
+3535,38453575247490029251491384702,0,6,2,2,0,0,3.0,partners,affiliate,affiliates,desktop,macintosh,chrome,spain,madrid
+3540,72636711164622326091478094761,0,176,6,6,0,0,28.6666666667,reddit.com,referral,social,desktop,linux,uc browser,indonesia,jakarta
+3550,51650663949721896111471693627,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,thailand,bangkok
+3556,87329616656366383991490319619,0,10,3,3,0,0,3.3333333333,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,argentina,buenos aires
+3563,61178590665308364691492704386,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,mountain view
+3565,12917879069467919621478984885,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,chrome,taiwan,miaoli
+3574,27845476092753021621476636311,0,4,2,3,0,2,2.0,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+3577,64891471467842958111491243113,0,230,10,16,0,3,23.0,(direct),,direct,desktop,macintosh,chrome,canada,sunnyvale
+3579,96803837686150539141473293287,0,1325,58,75,0,6,22.3769230769,google,organic,organic search,tablet,ios,safari,japan,minato
+3581,96260558077991564231481113419,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,spain,barcelona
+3584,37159995249705213301470978335,0,444,9,9,0,0,48.4444444444,(direct),,direct,desktop,macintosh,chrome,united states,austin
+3598,90102925674810455641477219364,0,78,3,3,0,0,26.6666666667,(direct),,direct,desktop,macintosh,opera,indonesia,jakarta
+3602,06273483431695032091493850388,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,pakistan,
+3617,39761050270588291821477382399,1,0,1,1,0,0,,(direct),,direct,mobile,android,chrome,united states,new york
+3622,35967386788471238211497285210,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,tunisia,
+3628,57966851528028420481477335752,0,33,5,5,0,0,6.6,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+3630,58121844038608848091486402252,0,1277,12,16,0,2,103.8333333333,dfa,cpm,display,desktop,windows,chrome,united kingdom,london
+3639,11185082485499413671493058905,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,turkey,istanbul
+3641,25079899356921447611479138930,0,128,5,5,0,5,25.6,youtube.com,referral,social,desktop,windows,edge,united kingdom,london
+3651,72243392340774363411473175521,0,1017,50,78,0,6,20.14,dfa,cpm,display,desktop,macintosh,chrome,united states,atlanta
+3653,95709543423885364831501504848,0,159,9,11,5,5,17.6666666667,(direct),,direct,mobile,android,firefox,switzerland,zurich
+3656,6193527302421623621478559103,0,802,14,16,0,6,56.1428571429,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+3658,83920451040557067651496914938,0,23,4,4,0,0,5.75,dfa,cpm,display,mobile,ios,safari,united states,san francisco
+3664,96131782255396745001484308604,0,36,2,2,0,0,18.0,(direct),,direct,mobile,android,firefox,australia,melbourne
+3667,36912313138767469601494418534,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,greece,mountain view
+3669,91483204684065189071476326865,0,329,16,18,0,6,21.9375,mall.googleplex.com,referral,referral,desktop,windows,chrome,canada,
+3673,10913739689827329501481155786,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,israel,
+3674,97161069422360640141495030543,0,32,4,6,0,3,8.0,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3688,19005794280921562051485688576,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,yabrowser,russia,
+3700,06971849234450213091475309131,0,924,59,75,0,3,17.4444444444,analytics.google.com,referral,referral,desktop,windows,edge,bulgaria,sofia
+3705,62981420687848436081495103833,0,853,23,30,0,6,36.7805555556,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,mountain view
+3708,17398603384032777741471644722,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,internet explorer,hong kong,hong kong
+3714,9545090417842241921494281236,0,909,14,16,0,6,64.1428571429,mail.google.com,referral,referral,mobile,android,chrome,canada,toronto
+3721,37182342292305079831481070137,0,22,3,3,0,0,7.3333333333,google,organic,organic search,desktop,macintosh,chrome,united kingdom,london
+3729,61135535251682033901473556683,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,chrome,poland,warsaw
+3730,68672460176341829641485543260,0,239,8,8,0,5,29.25,(direct),,direct,desktop,macintosh,chrome,united states,sunnyvale
+3737,29289224665687063481481169577,0,159,5,5,0,0,31.8,reddit.com,referral,social,desktop,macintosh,firefox,australia,sydney
+3742,8281322153810488311478605718,0,224,11,13,0,6,20.3636363636,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3744,96061960317666740331479312333,0,84,4,4,0,0,21.0,partners,affiliate,affiliates,tablet,ios,safari (in-app),india,new delhi
+3754,446235566908371251489608616,0,1159,12,15,0,2,96.6666666667,partnersluxury.com,referral,referral,tablet,ios,safari (in-app),germany,berlin
+3758,78258283921403839491490927234,0,30,4,6,0,3,7.5,moma.corp.google.com,referral,referral,desktop,linux,chrome,israel,
+3762,95998418959816187861476334794,0,17,3,3,0,0,5.6666666667,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+3763,94460041225726232991470373417,1,0,1,1,0,0,,lunametrics.com,referral,referral,tablet,android,chrome,australia,melbourne
+3768,67795950956197178591477340534,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,macintosh,firefox,spain,madrid
+3771,29215710511516188781487930857,0,42,2,2,0,0,21.0,youtube.com,referral,social,desktop,windows,internet explorer,indonesia,
+3774,48908414958426782621483958520,1,0,1,1,0,0,,google,organic,organic search,mobile,ios,safari,switzerland,zurich
+3785,04646620711967467361478287911,0,29,3,4,0,2,9.6666666667,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+3788,95757216881386126021499930985,0,322,10,13,22,2,32.2,youtube.com,referral,social,desktop,macintosh,safari,vietnam,hanoi
+3791,90197016855360278791474844934,0,311,11,12,0,0,28.1818181818,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+3796,60807368468240462071499208929,1,0,1,1,1,0,,google,organic,organic search,mobile,android,chrome,australia,melbourne
+3803,50771875112788695871472830680,0,54,5,5,0,0,10.8,dfa,cpm,display,desktop,macintosh,chrome,united states,san francisco
+3807,54244806513617646401480083422,0,24,2,2,0,0,12.0,analytics.google.com,referral,referral,mobile,android,opera mini,japan,
+3809,16210682776204693371499169447,0,307,8,8,2,0,38.5,(direct),,direct,desktop,macintosh,firefox,united states,san jose
+3810,3481145999384701621481262393,0,205,9,10,0,2,23.2222222222,sites.google.com,referral,referral,mobile,android,chrome,ireland,dublin
+3814,77991071398747996391475571648,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united kingdom,london
+3815,95389855790695422241494461332,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,indonesia,jakarta
+3817,85734793677314412141478231425,1,0,1,1,0,0,,google,organic,organic search,tablet,ios,safari,united states,san francisco
+3826,61869814916817367921494830305,0,949,20,28,0,6,47.45,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,mountain view
+3827,3305959924767906031470423743,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,opera mini,brazil,
+3830,0933958808170496221470490916,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,ireland,dublin
+3833,08198472162827598781481739718,0,11,3,3,0,0,3.6666666667,siliconvalley.about.com,referral,referral,tablet,ios,safari (in-app),india,mumbai
+3834,17483937183870384091501193685,0,1899,23,27,88,6,82.5454545455,(direct),,direct,desktop,windows,internet explorer,canada,kitchener
+3836,27238162562578879081479548485,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,thailand,bangkok
+3838,7698581021798669221494822936,0,152,12,15,0,6,13.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,mountain view
+3839,57199212522744718411478482666,0,214,11,11,0,5,19.4545454545,sites.google.com,referral,referral,desktop,linux,chrome,united states,sunnyvale
+3848,04667273839816699961482606558,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,indonesia,
+3849,79963064163848342101481221264,0,52,7,12,0,3,7.4285714286,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+3850,9741975676338179121471462011,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3851,58112128829063817351499887664,0,37,3,6,2,3,12.3333333333,mail.google.com,referral,referral,desktop,windows,chrome,taiwan,
+3854,92867754278891765451478895095,1,0,1,1,0,0,,google,organic,organic search,mobile,ios,safari,switzerland,
+3860,13175720328363937571498844914,0,1371,14,18,0,2,97.5833333333,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+3866,69613698012231136031496691473,0,124,4,6,0,3,30.75,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3867,31204750172018927321480169569,0,849,9,9,0,0,98.6666666667,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+3869,73075451796671551691486923304,0,28,2,2,0,0,14.0,partners,affiliate,affiliates,desktop,macintosh,firefox,israel,tel aviv-yafo
+3872,84902237405193929001490832690,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+3877,41642771181642826101483765589,0,24,3,4,0,0,8.0,partners,affiliate,affiliates,desktop,windows,chrome,netherlands,utrecht
+3884,158236484664145261488470790,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,chrome,turkey,istanbul
+3887,32785193224059891421493677208,0,294,20,27,0,6,14.2,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+3890,82717793343473838411482581816,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,windows,chrome,canada,toronto
+3891,88778319281249098411479924575,0,42,6,8,0,2,7.0,dealspotr.com,referral,referral,desktop,windows,internet explorer,united kingdom,london
+3898,21337404084080092541495316559,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,san francisco
+3900,27430731951071768821481549366,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,macintosh,firefox,russia,
+3908,27546375025944233021473240177,0,182,8,11,0,3,22.5,google,organic,organic search,desktop,windows,internet explorer,united states,new york
+3909,32406757028811043411493257214,0,1388,19,23,0,2,73.5263157895,(direct),,direct,desktop,linux,chrome,switzerland,zurich
+3916,60125738914579416751471324915,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,hong kong,
+3920,8769649702691820281481801510,0,119,10,12,0,2,11.9,lunametrics.com,referral,referral,desktop,macintosh,chrome,switzerland,zurich
+3922,34665817859349000181479256622,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,japan,osaka
+3923,87943520570654976611481642794,0,20,2,3,0,2,10.0,(direct),,direct,desktop,macintosh,chrome,germany,dusseldorf
+3928,95024668293149857091488106515,0,97,5,8,0,3,19.4,sites.google.com,referral,referral,desktop,macintosh,chrome,ireland,mountain view
+3933,74477210771507470241492275453,0,217,13,16,0,6,16.1538461538,sites.google.com,referral,referral,desktop,windows,chrome,united states,kirkland
+3935,76164841132994469361483407724,0,17,3,5,0,3,5.6666666667,(direct),,direct,desktop,macintosh,chrome,united states,sunnyvale
+3936,87564884138328303961478848964,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,thailand,bangkok
+3937,29563361715569993351496961094,0,82,3,3,0,0,26.6666666667,google,cpc,paid search,desktop,macintosh,firefox,north america,new york
+3939,39452407947297278851492255070,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,thailand,
+3942,78031748454284377021499455768,0,54,3,3,0,0,18.6666666667,dfa,cpm,display,desktop,macintosh,chrome,united states,mountain view
+3945,63158644889427944241493885926,0,133,3,3,0,0,45.6666666667,partners,affiliate,affiliates,desktop,windows,internet explorer,germany,hamburg
+3946,68100770533206456921490436636,0,1964,2,2,0,0,987.0,siliconvalley.about.com,referral,referral,desktop,macintosh,chrome,ukraine,kyiv
+3947,92457791264549511591494077205,0,45,2,3,0,2,22.5,(direct),,direct,desktop,macintosh,chrome,canada,
+3950,16336448033469565941482173037,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,reunion,romanou
+3955,35832251021622380311479426002,0,573,12,12,0,0,48.4166666667,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san bruno
+3957,823823307243445641490438218,0,384,2,2,0,0,192.0,(direct),,direct,mobile,android,firefox,germany,frankfurt
+3962,52191690345764536981472403776,1,0,1,1,0,0,,partners,affiliate,affiliates,tablet,ios,safari (in-app),india,new delhi
+3967,13616518038900069411480577984,0,20,3,3,0,0,6.6666666667,google,organic,organic search,desktop,macintosh,firefox,switzerland,zurich
+3969,18549753874316904371476226844,1,0,1,1,0,0,,google,organic,organic search,tablet,ios,safari,france,
+3970,40117016236255606461480831880,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+3971,16919948562137325991489473530,1,0,1,1,0,0,,(direct),,direct,mobile,android,opera mini,brazil,sao paulo
+3978,11855040905057138431497262883,0,116,8,8,0,0,13.75,(direct),,direct,mobile,android,chrome,argentina,
+3989,07696327965729420491479237890,0,100,5,5,0,0,20.0,google,organic,organic search,desktop,macintosh,safari,japan,minato
+3992,55100588377670710871485818590,0,207,4,8,0,3,51.25,mall.googleplex.com,referral,referral,desktop,linux,chrome,puerto rico,londonderry
+3993,60603112811224684161488943338,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,safari,denmark,kirkenes
+3994,71494027347818850821478692671,1,0,1,1,0,0,,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+3997,27539463743742116201491675505,0,83,5,5,0,0,16.6,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,new york
+3999,86867863207819461961482188717,0,507,16,23,0,3,31.9375,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,santa clara
+4008,65904843011226244481476954960,0,99,2,2,0,0,49.5,analytics.google.com,referral,referral,desktop,macintosh,chrome,venezuela,maracaibo
+4009,92487303342466490621485109851,0,38,5,5,0,0,7.6,google,organic,organic search,desktop,windows,chrome,saudi arabia,
+4012,88189828055024059981480410393,1,0,1,1,0,0,,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,germany,berlin
+4017,87055484957397348321494061467,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,edge,vietnam,hanoi
+4023,60995727039086443931476346547,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,denmark,kosovska mitrovica
+4025,69404811281314895051475026463,0,171,5,5,0,0,34.2,blog.golang.org,referral,referral,desktop,macintosh,chrome,brazil,san francisco
+4029,34438239248799953601494864698,0,75,10,13,0,0,7.5,sites.google.com,referral,referral,desktop,windows,chrome,canada,toronto
+4031,28800692414848004781490703483,0,389,2,2,0,0,194.5,partners,affiliate,affiliates,desktop,macintosh,firefox,poland,wroclaw
+4032,86725413924151979771480101734,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,italy,
+4033,07792664795926380701473121537,0,58,3,3,0,0,19.3333333333,(direct),,direct,mobile,android,uc browser,india,new delhi
+4036,36321487274007005261470759799,0,40,5,6,0,2,8.0,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+4037,25269293144447538561489914140,1,0,1,1,0,0,,google,cpc,paid search,desktop,windows,firefox,norway,oslo
+4044,80811500941040038261475097626,1,0,1,1,0,0,,(direct),,direct,mobile,android,chrome,brazil,sao paulo
+4052,55616603963892195291488471790,0,38,3,3,0,0,12.6666666667,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+4061,30061070031412434981489604480,0,57,3,4,0,3,18.3333333333,moma.corp.google.com,referral,referral,desktop,linux,chrome,united kingdom,london
+4062,8919798767184181971484854476,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,belarus,minsk
+4066,52325686653802363361489597112,0,558,15,17,0,6,38.0666666667,google,organic,organic search,desktop,windows,chrome,united states,san jose
+4069,12311571738619003941495824945,0,43,4,4,0,0,10.75,sites.google.com,referral,referral,desktop,windows,chrome,united states,palo alto
+4071,25203822918557456661477668434,0,32,2,3,0,2,16.0,partners,affiliate,affiliates,desktop,windows,internet explorer,hong kong,walton
+4090,87785933147691768101486322912,0,665,13,15,0,6,50.3846153846,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,palo alto
+4092,66593692297708855181482267808,0,13,4,4,0,0,3.25,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+4098,8963870659648792321476291384,0,88,8,8,0,0,11.0,dfa,cpm,display,desktop,macintosh,chrome,united states,palo alto
+4103,39690257055621443271481554976,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+4104,68649033792719151251487623770,0,190,9,9,0,0,21.1111111111,sites.google.com,referral,referral,desktop,linux,chrome,united states,kirkland
+4112,81173719170606772821479944575,0,625,22,25,0,2,26.1428571429,mail.google.com,referral,referral,desktop,windows,chrome,pakistan,islamabad
+4116,31084562427381636761477672965,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,chrome,czechia,oslo
+4135,68537265857434821211492344851,0,136,6,9,0,4,22.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+4150,64928372926643277311485930425,1,0,1,1,0,0,,google,organic,organic search,tablet,ios,safari,germany,
+4154,31809424006120993411478664481,0,1003,19,22,0,6,52.5,dfa,cpm,display,desktop,linux,chrome,united states,mountain view
+4156,39769534981849625401499694905,0,1832,9,9,5,5,205.4444444444,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,palo alto
+4174,1160335800237011241474157372,0,28,3,3,0,0,9.3333333333,(direct),,direct,desktop,macintosh,chrome,united states,palo alto
+4182,38569483285918485151476669739,0,51,3,3,0,0,17.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+4183,69759983382093551801491733190,0,17,3,3,0,0,5.6666666667,(direct),,direct,mobile,ios,safari (in-app),romania,
+4188,27635116642385351501480043593,0,1339,19,26,0,4,70.53125,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+4195,02972329490037979151470690803,0,33,4,4,0,0,8.25,mail.facebook.com,referral,social,mobile,ios,safari,saudi arabia,
+4208,99986702020744827361488786200,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,windows,firefox,ukraine,kiev
+4211,08891660661213298301477925326,0,20,2,2,0,0,10.0,sites.google.com,referral,referral,desktop,macintosh,chrome,ireland,mountain view
+4215,67586217119336641701476188388,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,opera mini,india,
+4220,35786497687193858521492817325,1,0,1,1,0,0,,google,cpc,paid search,desktop,windows,chrome,india,hyderabad
+4221,17567090893370469111481680250,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,chrome,vietnam,da nang
+4223,22661525285512725291479672553,1,0,1,1,0,0,,google,organic,organic search,desktop,macintosh,safari,philippines,quezon city
+4229,99399924086516550651473544765,1,0,1,2,0,0,,youtube.com,referral,social,mobile,android,uc browser,india,new delhi
+4235,9286637.361576636001487198494,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,vietnam,da nang
+4236,1331824251589039631477624148,0,499,2,2,0,0,249.5,mall.googleplex.com,referral,referral,desktop,windows,chrome,ireland,dublin
+4237,05336552973514486371483389549,1,0,1,1,0,0,,partners,affiliate,affiliates,tablet,ios,safari,netherlands,hoofddorp
+4238,15759697290283411981479540920,0,92,2,2,0,0,46.0,sites.google.com,referral,referral,desktop,linux,chrome,canada,toronto
+4245,03139637834807857921481959124,0,65,4,5,0,2,16.25,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,israel,tel aviv-yafo
+4248,93851025382999385081481138866,0,18,4,4,0,0,4.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+4249,82174813720369429421475760995,1,0,1,1,0,0,,youtube.com,referral,social,mobile,android,chrome,thailand,bangkok
+4258,40374478585644695601482439924,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,windows,chrome,united states,mountain view
+4261,49052653107686863471487218434,0,398,11,15,0,6,36.6363636364,l.facebook.com,referral,social,desktop,macintosh,safari,netherlands,holland
+4272,65283610214020685261482468698,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,opera mini,india,hyderabad
+4273,95674414461647471241487948594,0,131,9,9,0,6,14.5555555556,(direct),,direct,desktop,windows,edge,peru,
+4278,64774065476020130141484772842,0,94,10,13,0,2,9.4,mail.google.com,referral,referral,desktop,macintosh,chrome,united states,san francisco
+4282,5409651679684528411496570381,0,198,8,13,0,5,24.5,dfa,cpm,display,desktop,windows,chrome,united states,pittsburgh
+4290,98806375464079176161490287959,0,271,14,21,0,3,20.7857142857,google,cpc,paid search,mobile,android,chrome,united states,austin
+4291,10622286731139087161484619285,1,0,1,1,0,0,,youtube.com,referral,social,desktop,,opera mini,maldives,
+4293,49695276130340162881489405776,0,106,5,5,0,0,21.2,dfa,cpm,display,mobile,ios,safari,united states,san francisco
+4296,61495084465411220141484204310,1,0,1,1,0,0,,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+4298,93926122025273425651487390254,0,438,13,13,0,6,33.6923076923,sdf.org,referral,referral,mobile,android,android webview,united states,san francisco
+4301,11238701454657602291488498567,0,218,10,12,0,5,21.8,mail.google.com,referral,referral,desktop,macintosh,chrome,india,hyderabad
+4304,93792273826555059711475092230,1,0,1,1,0,0,,google,organic,organic search,tablet,android,internet explorer,ireland,dublin
+4306,05295556657596171281481804108,0,8,2,2,0,0,4.0,(direct),,direct,desktop,macintosh,chrome,united states,palo alto
+4307,71597271455500252761481492554,0,444,34,50,0,6,13.5327518115,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+4308,00052083838003522481478735103,0,4,2,2,0,0,2.0,analytics.google.com,referral,referral,desktop,macintosh,firefox,belarus,minsk
+4312,91684297494544638631482146365,0,948,16,16,0,6,58.25,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+4318,07687655202877263771489703080,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,firefox,germany,frankfurt
+4321,15893944843730282871477943923,0,1497,30,41,0,4,48.275,google,organic,organic search,desktop,macintosh,chrome,canada,montreal
+4327,5398524083534966191472327664,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+4331,41767704407926468561478730513,0,1726,15,17,0,6,118.8666666667,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+4333,54863609688247416591497714925,0,122,4,4,0,0,30.5,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+4341,62662491553572552341501965351,1,0,1,1,1,0,,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+4342,79667923855481819141470754066,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,vietnam,hanoi
+4345,5813961174478428151487793878,1,0,1,1,0,0,,google.com,referral,referral,desktop,windows,chrome,japan,
+4347,38393538570723215661499742721,0,576,34,56,98,5,16.7647058824,(direct),,direct,desktop,windows,firefox,sweden,
+4349,48477105940996041861479613960,1,0,1,1,0,0,,google,organic,organic search,tablet,ios,safari,france,paris
+4355,4442125242994736621499721655,1,0,1,1,1,0,,analytics.google.com,referral,referral,mobile,android,chrome,spain,barcelona
+4356,3642448721831324941497896159,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+4367,543712279739358361476618615,0,535,18,22,0,6,29.75,dfa,cpm,display,desktop,macintosh,chrome,united states,san francisco
+4373,34766742488134966141496364325,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,hong kong,hong kong
+4376,28564666197688842351476516869,0,151,13,14,0,5,11.2307692308,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,indonesia,jakarta
+4382,07134276234782384931480908605,0,89,6,6,0,0,14.1666666667,google,organic,organic search,desktop,windows,edge,singapore,singapore
+4383,61651789767624438411478412182,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,internet explorer,brazil,
+4387,17141648839341781821475889371,0,444,14,16,0,3,31.6428571429,(direct),,direct,tablet,ios,safari (in-app),canada,toronto
+4388,79062547967125671201481403940,0,256,8,11,0,2,31.0,dfa,cpm,display,desktop,linux,chrome,united states,irvine
+4389,80882081999161876361498492958,0,274,8,11,0,3,34.125,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,mountain view
+4390,8377264249503183611481594600,0,164,6,6,0,0,28.5,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,new york
+4399,24396532229659902871481939608,0,93,4,4,0,0,24.75,analytics.google.com,referral,referral,desktop,macintosh,safari,taiwan,
+4410,49519789900961199211485689755,0,105,10,10,0,0,10.5,google,organic,organic search,desktop,macintosh,safari,united states,san francisco
+4413,81462002263968022141475734141,1,0,1,1,0,0,,youtube.com,referral,social,tablet,ios,safari,vietnam,ho chi minh city
+4415,29933716227001664511474710008,0,260,5,5,0,0,52.0,mall.googleplex.com,referral,referral,desktop,linux,chrome,israel,kiryat ono
+4425,8579144073139660541472989320,0,12,3,3,0,0,4.0,google,organic,organic search,desktop,macintosh,chrome,netherlands,
+4429,64458113894067893251470999589,0,147,13,17,0,6,11.0769230769,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,palo alto
+4436,65508774715652655721492540033,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,chrome,uruguay,montevideo
+4443,48769118214636085151498342205,0,178,10,13,0,2,17.8,google,organic,organic search,mobile,android,chrome,india,hyderabad
+4450,07669426008850811571489955370,0,956,12,16,0,3,78.4166666667,(direct),,direct,desktop,chrome os,chrome,united states,new york
+4452,18072024291874915871489420640,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,opera mini,brazil,
+4461,36502190719778286621481411322,0,112,5,5,0,0,22.4,partners,affiliate,affiliates,tablet,android,chrome,germany,berlin
+4465,58923229358071341701488267574,0,72,3,5,0,2,24.6666666667,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,france,
+4466,13800692786905852351481613087,0,403,13,14,0,6,31.0769230769,(direct),,direct,mobile,ios,safari,canada,toronto
+4477,25252577350922865111491560832,0,140,7,9,0,5,20.0,dfa,cpm,display,desktop,windows,chrome,united states,salem
+4478,38519518640872062471494972401,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,firefox,netherlands,
+4482,83746192829424717851489809315,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,thailand,bangkok
+4483,79996774959461534941477811329,0,24,2,2,0,0,12.0,google,organic,organic search,mobile,ios,chrome,canada,toronto
+4495,69122808092522285001480305752,0,44,3,3,0,0,14.6666666667,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+4496,58017310421534805091495115588,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,macintosh,chrome,japan,osaka
+4497,71259042927928133961487290417,1,0,1,1,0,0,,(direct),,direct,desktop,macintosh,chrome,united states,san bruno
+4499,39949904649085963471479864702,0,492,8,8,0,0,63.75,google,organic,organic search,tablet,ios,edge,sweden,stockholm
+4500,94572820653530899711482063598,0,4,2,2,0,0,2.0,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+4518,05086517591144922691485713528,0,55,4,4,0,0,13.75,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united kingdom,london
+4521,11556955653996686831485164843,0,53,4,4,0,0,13.75,mail.google.com,referral,referral,desktop,windows,chrome,ireland,dublin
+4525,60136623306186991621480459137,0,813,54,78,0,6,14.978978979,mall.googleplex.com,referral,referral,desktop,linux,chrome,canada,kitchener
+4527,7315377014219169791471990865,1,0,1,1,0,0,,lunametrics.com,referral,referral,tablet,ios,safari,paris,
+4528,5901902648317826681481481271,0,63,5,5,0,0,12.6,sites.google.com,referral,referral,desktop,windows,chrome,united states,mountain view
+4535,90705961527639805051499371039,0,709,12,12,96,6,56.4166666667,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,palo alto
+4537,7349438299233993761492746583,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,macintosh,firefox,poland,warsaw
+4540,20266165207507110751489611486,1,0,1,1,0,0,,analytics.google.com,referral,referral,tablet,ios,safari,singapore,singapore
+4542,75085080167897920691499669571,0,33,4,4,4,0,8.25,sites.google.com,referral,referral,desktop,linux,chrome,canada,kitchener
+4543,77798501635158937211481354097,0,39,4,4,0,0,9.75,mail.google.com,referral,referral,desktop,windows,chrome,united states,san francisco
+4544,09731115353356460271487840239,0,11,3,3,0,0,3.6666666667,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+4547,18692430988699868011481660908,0,346,13,13,0,0,26.6923076923,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,new york
+4548,38539265005429952651491942393,0,56,5,8,0,3,11.2,(direct),,direct,mobile,ios,safari (in-app),canada,toronto
+4551,7739409650390994681476046486,0,1467,15,17,0,5,98.4,mall.googleplex.com,referral,referral,desktop,windows,chrome,canada,toronto
+4552,52516569019438483671491606517,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,brazil,sao paulo
+4563,54468357594059752881475925660,1,0,1,1,0,0,,google,cpc,paid search,tablet,android,chrome,usa,atlanta
+4567,4222471746279148191499864453,0,825,12,16,93,6,68.4166666667,google,organic,organic search,mobile,ios,safari,united states,san francisco
+4572,30918236529384420071483547799,1,0,1,1,0,0,,partners,affiliate,affiliates,desktop,windows,internet explorer,india,hyderabad
+4575,41388831621321739981500042620,0,3,2,2,1,0,1.5,(direct),,direct,tablet,android,opera mini,indonesia,semarang
+4578,80266081540955603951483482404,0,3,2,2,0,0,1.5,analytics.google.com,referral,referral,desktop,windows,chrome,ukraine,ivano-frankovsk
+4583,54396019995802404831477059119,0,328,17,24,0,3,18.4705882353,(direct),,direct,desktop,macintosh,chrome,canada,
+4584,68193686182211292791486194489,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,thailand,
+4587,55042693934784068911495768908,0,1462,13,17,0,6,112.9230769231,l.facebook.com,referral,social,tablet,android,android webview,united states,new york
+4591,61957950836338417361481211232,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,chrome,india,
+4593,16657560897926620691482104314,0,26,3,3,0,0,8.6666666667,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+4599,00764256474478655691487328239,0,2190,15,21,0,3,148.4666666667,sites.google.com,referral,referral,desktop,macintosh,chrome,canada,toronto
+4600,39925814117062243831475461348,0,11,3,3,0,0,3.6666666667,google,organic,organic search,tablet,ios,safari,switzerland,zurich
+4605,24195791665928271391500823610,0,852,30,38,99,6,27.4333333333,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,fremont
+4609,54951021272801361201481759674,0,5,2,2,0,0,2.5,youtube.com,referral,social,desktop,macintosh,safari,vietnam,da nang
+4611,35763273943508303961478646660,0,1405,29,38,0,6,46.6818181818,google,organic,organic search,desktop,linux,chrome,india,kolkata
+4624,38482024759174003781474781421,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,chrome,sweden,kalmar
+4627,38454820091423635751471696107,0,127,5,6,0,2,25.4,dfa,cpm,display,desktop,chrome os,chrome,united states,san francisco
+4629,06204885651416553961492169666,0,121,9,10,0,2,13.5555555556,quora.com,referral,social,mobile,android,chrome,india,hyderabad
+4637,18285527140347943851484475277,1,0,1,1,0,0,,(direct),,direct,mobile,ios,safari (in-app),japan,osaka
+4646,27284131743263534931487824100,1,0,1,1,0,0,,analytics.google.com,referral,referral,desktop,linux,uc browser,india,mumbai
+4652,37679512973305783631479514520,1,0,1,1,0,0,,(direct),,direct,mobile,ios,safari (in-app),france,courbevoie
+4656,28864551036411847971481175551,0,211,4,4,0,0,50.25,partners,affiliate,affiliates,desktop,windows,chrome,spain,madrid
+4663,69936829457156175101480371297,0,174,8,8,0,6,21.75,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,japan,san francisco
+4666,96850513225440624211470576735,1,0,1,1,0,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+4667,45378287974175388081481422622,0,1147,24,26,0,6,48.2857142857,(direct),,direct,desktop,macintosh,chrome,canada,
+4680,56418014788078078551473282753,0,269,14,16,0,6,19.7857142857,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+4687,75838717970090731791486729559,1,0,1,1,0,0,,youtube.com,referral,social,desktop,macintosh,safari,thailand,
+4691,96456665050614231811481896288,1,0,1,1,0,0,,(direct),,direct,tablet,android,opera mini,vietnam,hanoi
+4693,0470566084662593701476020969,0,551,5,5,0,0,110.2,analytics.google.com,referral,referral,desktop,windows,chrome,poland,warsaw
+4697,81844072069047638031490681170,0,103,8,9,0,2,12.875,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+4703,26919002386270670401478589149,0,6,2,2,0,0,3.0,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,united states,san jose
+4708,6433266749780908881488428645,1,0,1,1,0,0,,(direct),,direct,desktop,windows,firefox,switzerland,zurich
+4721,06607925642858232431490365605,0,268,10,14,0,2,26.8,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,los angeles
+4724,3943417318695224621480012000,0,15,2,2,0,0,7.5,google,organic,organic search,mobile,android,chrome,central america,san jose
+4731,17775753171021984621501145602,0,58,4,4,1,0,14.5,google,organic,organic search,desktop,windows,internet explorer,japan,minato
+4736,94405708358556320591475396060,0,100,6,6,0,0,16.6666666667,moma.corp.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+4740,05083672716984991801498121180,0,32,4,4,0,0,7.5,(direct),,direct,desktop,windows,firefox,sweden,stockholm
+4742,74401501577902498271481971464,0,17,2,2,0,0,8.5,youtube.com,referral,social,desktop,macintosh,chrome,vietnam,ho chi minh city
+4743,98047666211300611571494697679,0,259,22,32,0,3,11.5454545455,facebook.com,referral,social,tablet,ios,safari (in-app),israel,tel aviv-yafo
+4744,95243375522480492751497382690,0,39,5,8,0,2,7.8,dfa,cpm,display,mobile,ios,safari,united states,
+4752,17486937959224923391480944787,0,3,2,2,0,0,1.5,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,switzerland,zurich
+4756,16431113917741661661499461308,1,0,1,1,4,0,,mall.googleplex.com,referral,referral,desktop,macintosh,chrome,united states,sunnyvale
+4757,75313025273407197241488224316,0,414,20,28,0,3,20.25,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+4761,15203193855802050141488425686,0,549,6,8,0,4,86.8333333333,google,organic,organic search,mobile,ios,chrome,switzerland,zurich
+4774,48101873664510435231490216208,1,0,1,1,0,0,,(direct),,direct,mobile,windows phone,edge,romania,
+4778,63922993775200062261497545445,0,360,10,12,0,6,36.0,(direct),,direct,mobile,android,chrome,united states,
+4780,96381415560620104741480135415,0,2317,12,14,0,6,183.1836734693,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,austin
+4786,78248613615917289161485443650,0,228,6,6,0,0,38.6666666667,google,organic,organic search,desktop,macintosh,chrome,india,hyderabad
+4788,58208223041303396961493472083,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,opera mini,thailand,bangkok
+4800,57005783045111470571479319990,0,54,5,5,0,0,10.8,lunametrics.com,referral,referral,desktop,macintosh,chrome,canada,halifax
+4802,31847600363794254301476835477,0,170,6,6,0,0,28.3333333333,analytics.google.com,referral,referral,desktop,windows,chrome,pakistan,
+4805,04603769137980011681481468869,0,123,2,2,0,0,61.5,(direct),,direct,tablet,ios,safari (in-app),taiwan,kao'an
+4806,87109070802591798341490909925,0,25,2,3,0,2,12.5,youtube.com,referral,social,desktop,windows,internet explorer,australia,melbourne
+4811,10206449430478395991491560654,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,tunisia,
+4820,43936157617440962481480766582,0,8,2,2,0,0,4.0,youtube.com,referral,social,desktop,macintosh,safari,thailand,bangkok
+4821,46107524313245364991479638495,0,51,4,4,0,0,13.5,partners,affiliate,affiliates,desktop,windows,internet explorer,india,new delhi
+4830,2179679669080169021479162817,1,0,1,1,0,0,,dfa,cpm,display,desktop,linux,chrome,united states,new york
+4839,73781888863263407051487712183,0,39,2,2,0,0,19.5,youtube.com,referral,social,desktop,windows,chrome,turkey,antalya
+4842,81634651650577617451487431958,1,0,1,1,0,0,,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+4843,69246876525838084521478697568,1,0,1,1,0,0,,siliconvalley.about.com,referral,referral,desktop,linux,uc browser,indonesia,jakarta
+4844,71933782280945813661493665832,0,285,10,13,0,2,28.5,sites.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+4849,75437633694037975231485343806,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,ukraine,
+4854,79461828675704041801499811963,0,504,44,62,93,4,11.0612244902,(direct),,direct,desktop,macintosh,chrome,canada,toronto
+4856,5155465053565885161489763520,0,156,11,16,0,4,14.1818181818,mall.googleplex.com,referral,referral,desktop,linux,chrome,united states,mountain view
+4876,25122922267433619861478894560,0,673,32,47,0,4,21.8636363636,mail.google.com,referral,referral,desktop,windows,chrome,netherlands,amsterdam
+4877,78804133551114283891471883388,0,2025,46,61,0,6,45.1086956522,l.<|system|>,referral,referral,desktop,windows,edge,australia,sydney
+4896,67425070043047683981499609976,1,0,1,1,1,0,,(direct),,direct,desktop,linux,chrome,ireland,dublin
+4900,80257645260288008111498771657,0,572,19,22,0,6,29.2727272727,(direct),,direct,desktop,windows,firefox,netherlands,
+4914,36209993246225221491480390919,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,firefox,portugal,
+4915,91345082253275453991495734260,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,spain,barcelona
+4919,70049239694512448661493834186,1,0,1,1,0,0,,youtube.com,referral,social,tablet,android,chrome,japan,new castle
+4923,81476909257209005221490889675,0,530,16,18,0,2,32.5,google,organic,organic search,desktop,windows,chrome,india,
+4926,17382779104126775561494038499,1,0,1,1,0,0,,youtube.com,referral,social,desktop,windows,firefox,ukraine,kiev
+4928,37189255246705037511474140386,0,7,2,3,0,0,3.5,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+4931,52041761027492324891498692719,0,747,3,5,0,2,244.8666666667,(direct),,direct,mobile,android,chrome,saudi arabia,
+4941,2844429696257710301500514083,0,22,4,4,2,0,5.5,sites.google.com,referral,referral,desktop,macintosh,chrome,ireland,dublin
+4942,18435747010349503861480599794,0,465,20,25,0,6,23.25,(direct),,direct,desktop,windows,chrome,argentina,buenos aires
+4945,68675934700400341451491878266,0,714,25,30,0,6,27.16,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
+4952,6249348962766434731471084008,0,1420,3,3,0,0,466.6666666667,mall.googleplex.com,referral,referral,desktop,windows,firefox,canada,montreal
+4955,36216518467344657651485374242,0,42,4,4,0,0,10.5,dfa,cpm,display,desktop,macintosh,chrome,united states,san francisco
+4956,09251673986985263781482689457,0,318,10,10,0,0,31.8,(direct),,direct,mobile,android,chrome,germany,berlin
+4969,90889216244555502061484545909,0,37,2,2,0,0,18.5,youtube.com,referral,social,mobile,android,firefox,romania,
+4982,53271684582812447671480397009,1,0,1,1,0,0,,google,organic,organic search,desktop,windows,chrome,hong kong,
+4985,45355569263733749281487924598,0,768,17,21,0,6,46.0588235294,sites.google.com,referral,referral,desktop,macintosh,chrome,united states,mountain view
+4996,12416167441564751191480326296,0,320,21,24,0,6,14.0909090909,dfa,cpm,display,desktop,macintosh,chrome,united states,new york
+4997,96710519571151703481485273816,0,23,2,2,0,0,11.5,partners,affiliate,affiliates,desktop,windows,firefox,sweden,stockholm
+4999,62896176797054570551500446377,0,399,17,19,68,6,23.1692561256,sites.google.com,referral,referral,desktop,linux,chrome,united states,mountain view
